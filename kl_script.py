@@ -11,10 +11,9 @@ import json
 import time
 import os
 
-# ================= CONFIG (ปรับปรุงสำหรับ GitHub) =================
+# ================= CONFIG (ปรับให้เข้ากับ GitHub) =================
 URL = "https://dookeela4.live/"
-# เปลี่ยนจาก D:\ เป็นโฟลเดอร์ชื่อ output ภายในตัวโปรเจกต์
-SAVE_DIR = "output"
+SAVE_DIR = "output" # เปลี่ยนจาก D:\ เป็นโฟลเดอร์ในโปรเจกต์
 OUTPUT_FILE = os.path.join(SAVE_DIR, "kl.txt")
 
 REFERER = "https://dookeela4.live/"
@@ -25,15 +24,14 @@ now = datetime.now()
 today_short = now.strftime("%d/%m/%y")
 today_full = now.strftime("%d/%m/%Y")
 
-# ================= SELENIUM (ปรับปรุงสำหรับ Linux/GitHub) =================
+# ================= SELENIUM (ตั้งค่าให้รันบนเซิร์ฟเวอร์ GitHub) =================
 options = Options()
-options.add_argument("--headless") # รันแบบไม่มีหน้าจอ (จำเป็น)
+options.add_argument("--headless")
 options.add_argument("--no-sandbox")
 options.add_argument("--disable-dev-shm-usage")
 options.add_argument("--window-size=1920,1080")
 options.add_argument(f"user-agent={USER_AGENT}")
 
-# ใช้ webdriver-manager เพื่อความง่ายในการจัดการ Driver บน GitHub
 service = Service(ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=options)
 
@@ -48,7 +46,7 @@ try:
 finally:
     driver.quit()
 
-# ================= PARSE MATCHES (เหมือนเดิม) =================
+# ================= PARSE MATCHES (โค้ดเดิมของคุณ) =================
 matches = []
 cards = soup.select("a[href^='/football/match/']")
 
@@ -73,10 +71,11 @@ for card in cards:
         match_time = None
         sort_time = None
         is_live = False
+
         time_span = card.select_one("div.mb-2 span.text-sub")
-        
         if time_span:
             t = time_span.text.strip()
+
             if "กำลังดู" in t:
                 match_date = today_short
                 match_time = "กำลังแข่ง"
@@ -121,7 +120,7 @@ for card in cards:
     except Exception:
         continue
 
-# ================= GROUPING & FINAL JSON (เหมือนเดิม) =================
+# ================= GROUPING (โค้ดเดิมของคุณ) =================
 live_matches = []
 date_groups = {}
 
@@ -165,6 +164,7 @@ for date in sorted(date_groups.keys(), key=parse_date_key):
         })
     groups.append({"name": f"วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
 
+# ================= FINAL JSON (โค้ดเดิมของคุณ) =================
 final_json = {
     "name": f"ดู dookeela4.live update @{today_full}",
     "author": f"Update@{today_full}",
@@ -173,11 +173,8 @@ final_json = {
     "groups": groups
 }
 
-# ================= SAVE =================
-# สร้างโฟลเดอร์ output ถ้ายังไม่มี
-if not os.path.exists(SAVE_DIR):
-    os.makedirs(SAVE_DIR)
-
+# ================= SAVE (ปรับให้เข้ากับ GitHub) =================
+os.makedirs(SAVE_DIR, exist_ok=True)
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
 
