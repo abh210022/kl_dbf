@@ -46,8 +46,9 @@ try:
 finally:
     driver.quit()
 
-# ================= PARSE MATCHES (โค้ดเดิมของคุณ) =================
+# ================= PARSE MATCHES =================
 matches = []
+
 cards = soup.select("a[href^='/football/match/']")
 
 for card in cards:
@@ -57,6 +58,7 @@ for card in cards:
         # ----- League -----
         league_name = "Unknown League"
         league_logo = LOGO_IMAGE
+
         league_block = card.select_one("div.mb-2")
         if league_block:
             img = league_block.find("img")
@@ -117,10 +119,11 @@ for card in cards:
                 "url": match_url,
                 "is_live": is_live
             })
+
     except Exception:
         continue
 
-# ================= GROUPING (โค้ดเดิมของคุณ) =================
+# ================= GROUPING =================
 live_matches = []
 date_groups = {}
 
@@ -133,13 +136,16 @@ for m in matches:
 def time_sort_key(m):
     return m["sort_time"] if m["sort_time"] else datetime.max
 
+# ✅ แก้บั๊กเรียงวันที่ตรงนี้
 def parse_date_key(date_str):
     return datetime.strptime(date_str, "%d/%m/%y")
 
 groups = []
 
+# ===== 🔴 LIVE GROUP =====
 if live_matches:
     live_stations = []
+
     for m in live_matches:
         live_stations.append({
             "name": f"กำลังแข่ง {m['home']} vs {m['away']}",
@@ -149,10 +155,17 @@ if live_matches:
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": "🔴Live", "image": LOGO_IMAGE, "stations": live_stations})
 
+    groups.append({
+        "name": "🔴Live",
+        "image": LOGO_IMAGE,
+        "stations": live_stations
+    })
+
+# ===== DATE GROUPS (เรียงถูกตามปฏิทิน) =====
 for date in sorted(date_groups.keys(), key=parse_date_key):
     stations = []
+
     for m in sorted(date_groups[date], key=time_sort_key):
         stations.append({
             "name": f"{m['time']} {m['home']} vs {m['away']}",
@@ -162,9 +175,14 @@ for date in sorted(date_groups.keys(), key=parse_date_key):
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": f"วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
 
-# ================= FINAL JSON (โค้ดเดิมของคุณ) =================
+    groups.append({
+        "name": f"วันที่ {date}",
+        "image": LOGO_IMAGE,
+        "stations": stations
+    })
+
+# ================= FINAL JSON =================
 final_json = {
     "name": f"ดู dookeela4.live update @{today_full}",
     "author": f"Update@{today_full}",
