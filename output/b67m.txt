@@ -9,14 +9,6 @@
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "00:45 พีเอโอเค vs เซลตาเดบิโก",
-          "info": "UEFA Europa League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/619.png",
-          "url": "https://ball67.com/live/b9fda562-9afd-4b75-a0b2-f41353002474/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
           "name": "00:45 ดีนาโมซาเกร็บ vs เกงค์",
           "info": "UEFA Europa League - World",
           "image": "https://image.api-b-cdn.com/football/teams/620.png",
@@ -37,6 +29,14 @@
           "info": "UEFA Europa League - World",
           "image": "https://image.api-b-cdn.com/football/teams/611.png",
           "url": "https://ball67.com/live/60397d7f-fcbe-457e-8dcc-fccfbd64e818/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "00:45 พีเอโอเค vs เซลตาเดบิโก",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/619.png",
+          "url": "https://ball67.com/live/b9fda562-9afd-4b75-a0b2-f41353002474/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
