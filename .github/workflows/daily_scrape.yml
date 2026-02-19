@@ -1,13 +1,13 @@
-name: Daily Auto Scrape (KL & DBF)
+name: Daily Auto Scrape (KL, DBF & B67)
 
 on:
   schedule:
-    # รันทุกวันเวลา 12:00 น. เวลาไทย (เท่ากับ 05:00 UTC)
+    # รันทุกวันเวลา 12:00 น. เวลาไทย (05:00 UTC)
     - cron: '0 5 * * *'
-  workflow_dispatch: # ปุ่มสำหรับกดรันเองเพื่อทดสอบ
+  workflow_dispatch: 
 
 jobs:
-  run-scripts:
+  run-all-scrapers:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -30,6 +30,9 @@ jobs:
 
       - name: Run DBF Script
         run: python dbf_script.py
+
+      - name: Run B67 Script
+        run: python b67_script.py
 
       - name: Commit and Push results
         run: |
