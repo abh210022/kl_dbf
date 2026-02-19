@@ -11,7 +11,7 @@ import json
 import time
 import os
 
-# ================= CONFIG (ปรับปรุงสำหรับ GitHub) =================
+# ================= CONFIG =================
 URL = "https://dookeela4.live/"
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "kl.txt")
@@ -20,10 +20,10 @@ REFERER = "https://dookeela4.live/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
 LOGO_IMAGE = "https://dookeela4.live/images/logo-bar.png"
 
-# ✅ แก้ไขเรื่องเวลา: ล็อคให้เป็นเวลาไทย (UTC+7) เสมอไม่ว่าจะรันบน Server ไหน
-now = datetime.utcnow() + timedelta(hours=7)
-today_short = now.strftime("%d/%m/%y")
-today_full = now.strftime("%d/%m/%Y")
+# ตั้งค่าเวลาปัจจุบันแบบไทยสำหรับใช้ตั้งชื่อไฟล์หรือเช็คสถานะ Live
+now_th = datetime.utcnow() + timedelta(hours=7)
+today_short = now_th.strftime("%d/%m/%y")
+today_full = now_th.strftime("%d/%m/%Y")
 
 # ================= SELENIUM =================
 options = Options()
@@ -45,7 +45,7 @@ try:
 finally:
     driver.quit()
 
-# ================= PARSE MATCHES (Logic เดิมของคุณ) =================
+# ================= PARSE MATCHES =================
 matches = []
 cards = soup.select("a[href^='/football/match/']")
 
@@ -73,15 +73,22 @@ for card in cards:
             if "กำลังดู" in t:
                 match_date = today_short
                 match_time = "กำลังแข่ง"
-                sort_time = now
+                sort_time = now_th
                 is_live = True
             else:
                 parts = t.split()
                 if len(parts) == 2:
-                    match_date = parts[0]
-                    match_time = parts[1]
-                    # ใช้การดึงค่าเวลาเพื่อจัดเรียง
-                    sort_time = datetime.strptime(f"{match_date} {match_time}", "%d/%m/%y %H:%M")
+                    # 1. ดึงวันที่และเวลาเดิมมา (ซึ่งเป็น UTC)
+                    raw_date = parts[0]
+                    raw_time = parts[1]
+                    raw_dt = datetime.strptime(f"{raw_date} {raw_time}", "%d/%m/%y %H:%M")
+                    
+                    # 2. ✅ บวกเพิ่มไปเลย 7 ชั่วโมงให้เป็นเวลาไทย
+                    th_dt = raw_dt + timedelta(hours=7)
+                    
+                    match_date = th_dt.strftime("%d/%m/%y")
+                    match_time = th_dt.strftime("%H:%M")
+                    sort_time = th_dt
 
         team_names = [span.text.strip() for span in card.select("div.flex.items-center.gap-2 span")]
         home = team_names[0] if len(team_names) > 0 else "-"
@@ -117,18 +124,17 @@ if live_matches:
     stations = []
     for m in live_matches:
         stations.append({
-            "name": f"กำลังแข่ง {m['home']} vs {m['away']}",
+            "name": f"🔴 กำลังแข่ง {m['home']} vs {m['away']}",
             "info": m["league"],
             "image": m["league_logo"],
             "url": m["url"],
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": "🔴 Live", "image": LOGO_IMAGE, "stations": stations})
+    groups.append({"name": "🔴 Live Now", "image": LOGO_IMAGE, "stations": stations})
 
 for date in sorted(date_groups.keys(), key=lambda x: datetime.strptime(x, "%d/%m/%y")):
     stations = []
-    # เรียงเวลาภายในวัน
     sorted_matches = sorted(date_groups[date], key=lambda x: x["sort_time"] if x["sort_time"] else datetime.max)
     for m in sorted_matches:
         stations.append({
@@ -139,7 +145,7 @@ for date in sorted(date_groups.keys(), key=lambda x: datetime.strptime(x, "%d/%m
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": f"วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
+    groups.append({"name": f"📅 วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
 
 final_json = {
     "name": f"ดู dookeela4.live update @{today_full}",
@@ -150,4 +156,4 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
 
-print(f"สร้างไฟล์เรียบร้อย → {OUTPUT_FILE}")
+print(f"สร้างไฟล์เรียบร้อย (บวกเวลาไทยแล้ว) → {OUTPUT_FILE}")
