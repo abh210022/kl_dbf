@@ -6,25 +6,26 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 import json
 import time
 import os
 
-# ================= CONFIG (ปรับให้เข้ากับ GitHub) =================
+# ================= CONFIG (GitHub Version) =================
 URL = "https://dookeela4.live/"
-SAVE_DIR = "output" # เปลี่ยนจาก D:\ เป็นโฟลเดอร์ในโปรเจกต์
+SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "kl.txt")
 
 REFERER = "https://dookeela4.live/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
 LOGO_IMAGE = "https://dookeela4.live/images/logo-bar.png"
 
-now = datetime.now()
+# ✅ แก้ไขเรื่อง Timezone: ปรับให้เป็นเวลาไทย (UTC+7) เสมอไม่ว่าจะรันที่ไหน
+now = datetime.utcnow() + timedelta(hours=7)
 today_short = now.strftime("%d/%m/%y")
 today_full = now.strftime("%d/%m/%Y")
 
-# ================= SELENIUM (ตั้งค่าให้รันบนเซิร์ฟเวอร์ GitHub) =================
+# ================= SELENIUM (GitHub Actions Settings) =================
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--no-sandbox")
@@ -46,19 +47,16 @@ try:
 finally:
     driver.quit()
 
-# ================= PARSE MATCHES =================
+# ================= PARSE MATCHES (คง Logic เดิมของคุณ) =================
 matches = []
-
 cards = soup.select("a[href^='/football/match/']")
 
 for card in cards:
     try:
         match_url = "https://dookeela4.live" + card.get("href")
 
-        # ----- League -----
         league_name = "Unknown League"
         league_logo = LOGO_IMAGE
-
         league_block = card.select_one("div.mb-2")
         if league_block:
             img = league_block.find("img")
@@ -68,7 +66,6 @@ for card in cards:
                 if img.get("src"):
                     league_logo = img.get("src")
 
-        # ----- Date / Time -----
         match_date = None
         match_time = None
         sort_time = None
@@ -93,7 +90,6 @@ for card in cards:
                         "%d/%m/%y %H:%M"
                     )
 
-        # ----- Teams -----
         team_row = None
         for r in card.select("div.flex.items-center.justify-between"):
             if "mb-2" not in r.get("class", []):
@@ -119,11 +115,10 @@ for card in cards:
                 "url": match_url,
                 "is_live": is_live
             })
-
     except Exception:
         continue
 
-# ================= GROUPING =================
+# ================= GROUPING & SAVE (คง Logic เดิมของคุณ) =================
 live_matches = []
 date_groups = {}
 
@@ -136,16 +131,12 @@ for m in matches:
 def time_sort_key(m):
     return m["sort_time"] if m["sort_time"] else datetime.max
 
-# ✅ แก้บั๊กเรียงวันที่ตรงนี้
 def parse_date_key(date_str):
     return datetime.strptime(date_str, "%d/%m/%y")
 
 groups = []
-
-# ===== 🔴 LIVE GROUP =====
 if live_matches:
     live_stations = []
-
     for m in live_matches:
         live_stations.append({
             "name": f"กำลังแข่ง {m['home']} vs {m['away']}",
@@ -155,17 +146,10 @@ if live_matches:
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
+    groups.append({"name": "🔴Live", "image": LOGO_IMAGE, "stations": live_stations})
 
-    groups.append({
-        "name": "🔴Live",
-        "image": LOGO_IMAGE,
-        "stations": live_stations
-    })
-
-# ===== DATE GROUPS (เรียงถูกตามปฏิทิน) =====
 for date in sorted(date_groups.keys(), key=parse_date_key):
     stations = []
-
     for m in sorted(date_groups[date], key=time_sort_key):
         stations.append({
             "name": f"{m['time']} {m['home']} vs {m['away']}",
@@ -175,14 +159,8 @@ for date in sorted(date_groups.keys(), key=parse_date_key):
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
+    groups.append({"name": f"วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
 
-    groups.append({
-        "name": f"วันที่ {date}",
-        "image": LOGO_IMAGE,
-        "stations": stations
-    })
-
-# ================= FINAL JSON =================
 final_json = {
     "name": f"ดู dookeela4.live update @{today_full}",
     "author": f"Update@{today_full}",
@@ -191,7 +169,6 @@ final_json = {
     "groups": groups
 }
 
-# ================= SAVE (ปรับให้เข้ากับ GitHub) =================
 os.makedirs(SAVE_DIR, exist_ok=True)
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
