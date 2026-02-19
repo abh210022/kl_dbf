@@ -6,12 +6,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta # เพิ่ม timedelta เพื่อใช้บวกเวลา
 import json
 import time
 import os
 
-# ================= CONFIG =================
+# ================= CONFIG (ปรับปรุงสำหรับ GitHub) =================
 URL = "https://dookeela4.live/"
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "kl.txt")
@@ -20,12 +20,12 @@ REFERER = "https://dookeela4.live/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
 LOGO_IMAGE = "https://dookeela4.live/images/logo-bar.png"
 
-# ตั้งค่าเวลาปัจจุบันแบบไทยสำหรับใช้ตั้งชื่อไฟล์หรือเช็คสถานะ Live
-now_th = datetime.utcnow() + timedelta(hours=7)
-today_short = now_th.strftime("%d/%m/%y")
-today_full = now_th.strftime("%d/%m/%Y")
+# ✅ ปรับเวลา 'ตอนนี้' ให้เป็นเวลาไทย เพื่อใช้เช็คคู่ที่กำลังแข่ง
+now = datetime.utcnow() + timedelta(hours=7)
+today_short = now.strftime("%d/%m/%y")
+today_full = now.strftime("%d/%m/%Y")
 
-# ================= SELENIUM =================
+# ================= SELENIUM (ปรับปรุงสำหรับ Linux/GitHub) =================
 options = Options()
 options.add_argument("--headless")
 options.add_argument("--no-sandbox")
@@ -39,60 +39,76 @@ driver = webdriver.Chrome(service=service, options=options)
 driver.get(URL)
 
 try:
-    WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    WebDriverWait(driver, 20).until(
+        EC.presence_of_element_located((By.TAG_NAME, "body"))
+    )
     time.sleep(3)
     soup = BeautifulSoup(driver.page_source, "html.parser")
 finally:
     driver.quit()
 
-# ================= PARSE MATCHES =================
+# ================= PARSE MATCHES (คงกระบวนการเดิม แก้เฉพาะเวลา) =================
 matches = []
 cards = soup.select("a[href^='/football/match/']")
 
 for card in cards:
     try:
         match_url = "https://dookeela4.live" + card.get("href")
-        
+
+        # ----- League -----
         league_name = "Unknown League"
         league_logo = LOGO_IMAGE
         league_block = card.select_one("div.mb-2")
         if league_block:
             img = league_block.find("img")
             if img:
-                league_name = img.get("alt", "Unknown").strip()
-                league_logo = img.get("src", LOGO_IMAGE)
+                if img.get("alt"):
+                    league_name = img.get("alt").strip()
+                if img.get("src"):
+                    league_logo = img.get("src")
 
+        # ----- Date / Time -----
         match_date = None
         match_time = None
         sort_time = None
         is_live = False
-
         time_span = card.select_one("div.mb-2 span.text-sub")
+        
         if time_span:
             t = time_span.text.strip()
             if "กำลังดู" in t:
                 match_date = today_short
                 match_time = "กำลังแข่ง"
-                sort_time = now_th
+                sort_time = now
                 is_live = True
             else:
                 parts = t.split()
                 if len(parts) == 2:
-                    # 1. ดึงวันที่และเวลาเดิมมา (ซึ่งเป็น UTC)
+                    # ดึงวันที่/เวลาเดิม (UTC)
                     raw_date = parts[0]
                     raw_time = parts[1]
                     raw_dt = datetime.strptime(f"{raw_date} {raw_time}", "%d/%m/%y %H:%M")
                     
-                    # 2. ✅ บวกเพิ่มไปเลย 7 ชั่วโมงให้เป็นเวลาไทย
+                    # ✅ บวกเพิ่ม 7 ชั่วโมงให้เป็นเวลาไทย
                     th_dt = raw_dt + timedelta(hours=7)
                     
                     match_date = th_dt.strftime("%d/%m/%y")
                     match_time = th_dt.strftime("%H:%M")
                     sort_time = th_dt
 
-        team_names = [span.text.strip() for span in card.select("div.flex.items-center.gap-2 span")]
-        home = team_names[0] if len(team_names) > 0 else "-"
-        away = team_names[1] if len(team_names) > 1 else "-"
+        # ----- Teams -----
+        team_row = None
+        for r in card.select("div.flex.items-center.justify-between"):
+            if "mb-2" not in r.get("class", []):
+                team_row = r
+                break
+
+        home = away = "-"
+        if team_row:
+            teams = team_row.select("div.flex.items-center.gap-2")
+            if len(teams) >= 2:
+                home = teams[0].find("span").text.strip()
+                away = teams[1].find("span").text.strip()
 
         if match_date:
             matches.append({
@@ -106,10 +122,10 @@ for card in cards:
                 "url": match_url,
                 "is_live": is_live
             })
-    except:
+    except Exception:
         continue
 
-# ================= GROUPING & SAVE =================
+# ================= GROUPING & FINAL JSON (เหมือนเดิม) =================
 live_matches = []
 date_groups = {}
 
@@ -119,24 +135,30 @@ for m in matches:
     else:
         date_groups.setdefault(m["date"], []).append(m)
 
+def time_sort_key(m):
+    return m["sort_time"] if m["sort_time"] else datetime.max
+
+def parse_date_key(date_str):
+    return datetime.strptime(date_str, "%d/%m/%y")
+
 groups = []
+
 if live_matches:
-    stations = []
+    live_stations = []
     for m in live_matches:
-        stations.append({
-            "name": f"🔴 กำลังแข่ง {m['home']} vs {m['away']}",
+        live_stations.append({
+            "name": f"กำลังแข่ง {m['home']} vs {m['away']}",
             "info": m["league"],
             "image": m["league_logo"],
             "url": m["url"],
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": "🔴 Live Now", "image": LOGO_IMAGE, "stations": stations})
+    groups.append({"name": "🔴Live", "image": LOGO_IMAGE, "stations": live_stations})
 
-for date in sorted(date_groups.keys(), key=lambda x: datetime.strptime(x, "%d/%m/%y")):
+for date in sorted(date_groups.keys(), key=parse_date_key):
     stations = []
-    sorted_matches = sorted(date_groups[date], key=lambda x: x["sort_time"] if x["sort_time"] else datetime.max)
-    for m in sorted_matches:
+    for m in sorted(date_groups[date], key=time_sort_key):
         stations.append({
             "name": f"{m['time']} {m['home']} vs {m['away']}",
             "info": m["league"],
@@ -145,15 +167,21 @@ for date in sorted(date_groups.keys(), key=lambda x: datetime.strptime(x, "%d/%m
             "referer": REFERER,
             "userAgent": USER_AGENT
         })
-    groups.append({"name": f"📅 วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
+    groups.append({"name": f"วันที่ {date}", "image": LOGO_IMAGE, "stations": stations})
 
 final_json = {
     "name": f"ดู dookeela4.live update @{today_full}",
+    "author": f"Update@{today_full}",
+    "info": f"dookeela4.live Update@{today_full}",
+    "image": LOGO_IMAGE,
     "groups": groups
 }
 
-os.makedirs(SAVE_DIR, exist_ok=True)
+# ================= SAVE =================
+if not os.path.exists(SAVE_DIR):
+    os.makedirs(SAVE_DIR)
+
 with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
 
-print(f"สร้างไฟล์เรียบร้อย (บวกเวลาไทยแล้ว) → {OUTPUT_FILE}")
+print(f"สร้างไฟล์เรียบร้อย → {OUTPUT_FILE}")
