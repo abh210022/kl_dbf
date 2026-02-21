@@ -3,7 +3,7 @@ name: Daily Auto Scrape (KL, DBF & B67)
 on:
   schedule:
     # รันทุกวันเวลา 12:00 น. เวลาไทย (05:00 UTC)
-    - cron: '0 5 * * *'
+    - cron: '13 3 * * *'
   workflow_dispatch: 
 
 jobs:
