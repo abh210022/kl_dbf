@@ -1,7 +1,7 @@
 {
-  "name": "ball67 update @23/02/2026",
-  "author": "Update@23/02/2026",
-  "info": "ball67 Update@23/02/2026",
+  "name": "ball67 update @24/02/2026",
+  "author": "Update@24/02/2026",
+  "info": "ball67 Update@24/02/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
@@ -9,34 +9,120 @@
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "00:30 ฟีออเรนตีนา vs ปิซา",
-          "info": "Serie A - Italy",
-          "image": "https://image.api-b-cdn.com/football/teams/502.png",
-          "url": "https://ball67.com/live/8131a978-d7ad-4452-a99c-402c601ac4b2/",
+          "name": "20:00 อินเตอร์ U19 vs เรอัล เบติส U19",
+          "info": "UEFA Youth League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/7903.png",
+          "url": "https://ball67.com/live/e07940bf-e1ea-4bb6-810a-76f830e92fe3/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:45 โบโลญญ่า vs อูดีเนเซ",
-          "info": "Serie A - Italy",
-          "image": "https://image.api-b-cdn.com/football/teams/500.png",
-          "url": "https://ball67.com/live/933a4bc4-41a7-42d0-b2b7-b29869b1071b/",
+          "name": "22:00 ไอน์ทรัค แฟร้งค์เฟิร์ต U19 vs สปอร์ติงลิสบอน U19",
+          "info": "UEFA Youth League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/10252.png",
+          "url": "https://ball67.com/live/4eaa1491-8c82-4202-86ad-f29fcfea96a5/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 25/2/26",
+      "image": "https://img2.pic.in.th/sitelogo.md.png",
+      "stations": [
+        {
+          "name": "00:45 อัตเลติโกเดมาดริด vs คลับ บรูกก์",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/530.png",
+          "url": "https://ball67.com/live/5fb72f70-c368-4e20-a422-9665c24594be/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 เอฟเวอร์ตัน vs แมนเชสเตอร์ยูไนเต็ด",
-          "info": "Premier League - England",
-          "image": "https://image.api-b-cdn.com/football/teams/45.png",
-          "url": "https://ball67.com/live/e7c6abd2-8833-4343-97ab-cc272bff11a6/",
+          "name": "02:00 อัล ทาวอน vs อัลฮิลาล",
+          "info": "Pro League - Saudi-Arabia",
+          "image": "https://image.api-b-cdn.com/football/teams/2936.png",
+          "url": "https://ball67.com/live/513aa50a-3632-4bbb-bd02-57430c2ea259/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 อลาเบส vs คิโรน่า",
-          "info": "La Liga - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/542.png",
-          "url": "https://ball67.com/live/b8aebf5d-bd89-4d17-b3fc-ef6ccbe01071/",
+          "name": "03:00 นิวคาสเซิล vs การาบัค",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/34.png",
+          "url": "https://ball67.com/live/7192130c-07d4-4038-8f08-ef32bb2dd7ef/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 อินเตอร์ มิลาน vs โบโด กลิมท์",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/505.png",
+          "url": "https://ball67.com/live/eb243862-18c1-4c35-99d8-7d2713e91d89/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 เลเวอร์คูเซิน vs โอลิมเปียกอส",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/168.png",
+          "url": "https://ball67.com/live/f5af85fb-68e1-401c-aa2b-f01497ab2f02/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 ลำพูน วอร์ริเออร์ vs ทรูแบงค็อก ยูไนเต็ด",
+          "info": "FA Cup - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/6572.png",
+          "url": "https://ball67.com/live/8ed320e9-33f9-41b1-9cb9-cd971388ec6a/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 บุรีรัมย์ ยูไนเต็ด vs ขอนแก่น ยูไนเต็ด",
+          "info": "FA Cup - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2780.png",
+          "url": "https://ball67.com/live/e15ce8ce-8528-4501-81d6-65a9d0cedb97/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:30 อยุธยา ยูไนเต็ด vs ราชบุรี",
+          "info": "FA Cup - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2803.png",
+          "url": "https://ball67.com/live/3e3a6dd6-d19f-4d68-b027-651e3671e3c4/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:30 เชียงราย ยูไนเต็ด vs พีที ประจวบ",
+          "info": "FA Cup - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2771.png",
+          "url": "https://ball67.com/live/1f7ca895-2bb9-49e3-a153-a0434b036a40/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:30 นครราชสีมา มาสด้า vs ระยอง เอฟซี",
+          "info": "Thai League 1 - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2773.png",
+          "url": "https://ball67.com/live/26744419-c1d1-45ed-ad5a-b91c62f1f5c3/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 ปารีส แซงต์ แชร์กแมง U19 vs เอชเจเค U19",
+          "info": "UEFA Youth League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/7921.png",
+          "url": "https://ball67.com/live/bcbea949-44d4-4d1f-b7e8-bd00e579a587/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "22:00 เรอัลมาดริด U19 vs เชลซี U19",
+          "info": "UEFA Youth League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/7926.png",
+          "url": "https://ball67.com/live/d8f46664-d86f-40b6-901d-ccb985b8117b/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
