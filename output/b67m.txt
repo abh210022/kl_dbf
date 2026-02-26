@@ -1,168 +1,178 @@
 {
-  "name": "ball67 update @25/02/2026",
-  "author": "Update@25/02/2026",
-  "info": "ball67 Update@25/02/2026",
+  "name": "ball67 update @26/02/2026",
+  "author": "Update@26/02/2026",
+  "info": "ball67 Update@26/02/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
-      "name": "วันที่ 25/2/26",
+      "name": "วันที่ 27/2/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "18:00 ลำพูน วอร์ริเออร์ vs ทรูแบงค็อก ยูไนเต็ด",
-          "info": "FA Cup - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/6572.png",
-          "url": "https://ball67.com/live/8ed320e9-33f9-41b1-9cb9-cd971388ec6a/",
+          "name": "00:45 พัลเซ่น vs พานาธิไนกอส",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/567.png",
+          "url": "https://ball67.com/live/9bfbe5d7-aac9-409e-a840-3b84615d0a3d/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "18:00 บุรีรัมย์ ยูไนเต็ด vs ขอนแก่น ยูไนเต็ด",
-          "info": "FA Cup - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2780.png",
-          "url": "https://ball67.com/live/e15ce8ce-8528-4501-81d6-65a9d0cedb97/",
+          "name": "00:45 เร้ด สตาร์ เบลเกรด vs ล็อสก์ลีล",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/598.png",
+          "url": "https://ball67.com/live/93fe09e4-3501-449d-8947-0c634a6fe388/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "18:30 เชียงราย ยูไนเต็ด vs พีที ประจวบ",
-          "info": "FA Cup - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2771.png",
-          "url": "https://ball67.com/live/1f7ca895-2bb9-49e3-a153-a0434b036a40/",
+          "name": "00:45 เฟเรนซ์วารอส vs ลูโดโกเรต์ส",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/651.png",
+          "url": "https://ball67.com/live/5e139ef6-1fdb-4cf9-9bf6-d677cf875f74/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "18:30 อยุธยา ยูไนเต็ด vs ราชบุรี",
-          "info": "FA Cup - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2803.png",
-          "url": "https://ball67.com/live/3e3a6dd6-d19f-4d68-b027-651e3671e3c4/",
+          "name": "00:45 สตุ๊ตการ์ท vs เซลติก",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/172.png",
+          "url": "https://ball67.com/live/be450e9b-c756-4e9d-bbc0-a650387077e0/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "18:30 นครราชสีมา มาสด้า vs ระยอง เอฟซี",
-          "info": "Thai League 1 - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2773.png",
-          "url": "https://ball67.com/live/26744419-c1d1-45ed-ad5a-b91c62f1f5c3/",
+          "name": "00:45 ริเยก้า vs โอโมเนีย",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/561.png",
+          "url": "https://ball67.com/live/4ad749f0-4ced-498e-835a-cdd9ebd9d41d/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "20:00 ปารีส แซงต์ แชร์กแมง U19 vs เอชเจเค U19",
-          "info": "UEFA Youth League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/7921.png",
-          "url": "https://ball67.com/live/bcbea949-44d4-4d1f-b7e8-bd00e579a587/",
+          "name": "00:45 ฟีออเรนตีนา vs ยาเกียลโลเนีย",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/502.png",
+          "url": "https://ball67.com/live/f5bff228-26df-4847-96e7-514183ca9c81/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "22:00 เรอัลมาดริด U19 vs เชลซี U19",
-          "info": "UEFA Youth League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/7926.png",
-          "url": "https://ball67.com/live/d8f46664-d86f-40b6-901d-ccb985b8117b/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 26/2/26",
-      "image": "https://img2.pic.in.th/sitelogo.md.png",
-      "stations": [
-        {
-          "name": "00:45 อตาลันต้า vs ดอร์ทมุนท์",
-          "info": "UEFA Champions League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/499.png",
-          "url": "https://ball67.com/live/5816fbc4-2916-448f-9521-264cc3b2763d/",
+          "name": "00:45 เซลเย่ vs Drita",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/4360.png",
+          "url": "https://ball67.com/live/157f1dc8-f2c5-4b45-8162-92c0d03a7e26/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "01:00 เอดี เซวตา vs คอร์โดบ้า",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/10139.png",
-          "url": "https://ball67.com/live/a7efe4ee-92ab-4375-aacb-b569bdf80ee8/",
+          "name": "00:45 ซัมซุนสปอร์ vs Shkendija",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/3603.png",
+          "url": "https://ball67.com/live/2df83fde-e683-4faa-9bea-ed6978735d49/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:00 อัล-นัจมา vs อัล นาสร์ ริยาด",
+          "name": "02:00 อัล ริยาดห์ vs อัล อาห์ลี",
           "info": "Pro League - Saudi-Arabia",
-          "image": "https://image.api-b-cdn.com/football/teams/2992.png",
-          "url": "https://ball67.com/live/99d3b875-fbba-41f1-a7c2-a53a82f78795/",
+          "image": "https://image.api-b-cdn.com/football/teams/10511.png",
+          "url": "https://ball67.com/live/35971a02-03db-431f-821b-9849223e807b/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:00 อัล ไฟฮา vs นีออม",
+          "name": "02:00 อัล ฟาเตห์ vs ดามัค",
           "info": "Pro League - Saudi-Arabia",
-          "image": "https://image.api-b-cdn.com/football/teams/2944.png",
-          "url": "https://ball67.com/live/a3f41ef4-65e0-4c5e-9318-6fe0882f67a0/",
+          "image": "https://image.api-b-cdn.com/football/teams/2931.png",
+          "url": "https://ball67.com/live/63da2c59-239b-4207-9b24-fa9dc5983827/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:45 นอริช ซิตี้ vs เชฟฟิลด์ เว้นส์เดย์",
-          "info": "Championship - England",
-          "image": "https://image.api-b-cdn.com/football/teams/71.png",
-          "url": "https://ball67.com/live/bfbd1556-dd40-48a0-a53f-b8c83085dcab/",
+          "name": "03:00 นอตทิงแฮมฟอเรสต์ vs เฟเนร์บาห์เช่",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/65.png",
+          "url": "https://ball67.com/live/21a41361-5df8-429b-9ba3-9a234513c96b/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:45 มิลล์วอลล์ vs เบอร์มิงแฮม",
-          "info": "Championship - England",
-          "image": "https://image.api-b-cdn.com/football/teams/58.png",
-          "url": "https://ball67.com/live/2415cffa-f781-4530-a751-cfc7c8dbea25/",
+          "name": "03:00 เกงค์ vs ดีนาโมซาเกร็บ",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/742.png",
+          "url": "https://ball67.com/live/d2b001f3-4085-48d9-bc7b-b496e65e92c2/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:45 เชฟฟีลด์ vs โคเวนทรี ซิตี้",
-          "info": "Championship - England",
-          "image": "https://image.api-b-cdn.com/football/teams/62.png",
-          "url": "https://ball67.com/live/b6394f06-b6c9-40d3-9c53-2bd5ff99ca30/",
+          "name": "03:00 เซลตาเดบิโก vs พีเอโอเค",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/538.png",
+          "url": "https://ball67.com/live/197bb4ce-1d1d-4ffd-b571-35fba1198221/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 ปารีส แซงต์-แชร์กแม็ง vs มอนาโก",
-          "info": "UEFA Champions League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/85.png",
-          "url": "https://ball67.com/live/0abb721e-7a36-4086-b94b-21c0d63b223e/",
+          "name": "03:00 โบโลญญ่า vs บรานน์",
+          "info": "UEFA Europa League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/500.png",
+          "url": "https://ball67.com/live/6ea9c2ea-f59a-4096-bacc-e12ce570b6d2/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 เรอัลมาดริด vs เบนฟิก้า",
-          "info": "UEFA Champions League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/541.png",
-          "url": "https://ball67.com/live/007b7385-99cc-4984-b36d-aaf903d9c8ae/",
+          "name": "03:00 Lausanne vs Sigma Olomouc",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1014.png",
+          "url": "https://ball67.com/live/05c22a5c-5deb-45fe-afeb-f2e4410497a8/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 ยูเวนตุส vs กาลาตาซาราย",
-          "info": "UEFA Champions League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/496.png",
-          "url": "https://ball67.com/live/aa1756d0-696e-431d-a70b-d9276c9d74d8/",
+          "name": "03:00 คริสตัลพาเลซ vs ซรินจ์สกี้",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/52.png",
+          "url": "https://ball67.com/live/c2a84bd3-1921-4bd6-92f1-5fea5156728b/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 สโต๊คซิตี้ vs อ็อกซ์ฟอร์ด ยูไนเต็ด",
-          "info": "Championship - England",
-          "image": "https://image.api-b-cdn.com/football/teams/75.png",
-          "url": "https://ball67.com/live/1a8507b4-6d36-41a4-9a35-b588c00b83b8/",
+          "name": "03:00 อาแซด vs FC Noah",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/201.png",
+          "url": "https://ball67.com/live/f80dabcf-470d-4df9-a514-cbf32abd7dc5/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "09:00 Mexico vs Iceland",
-          "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/16.png",
-          "url": "https://ball67.com/live/e35f48b5-7992-4f67-8c10-fb15597f2851/",
+          "name": "03:00 Lech Poznan vs KuPS",
+          "info": "UEFA Europa Conference League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/347.png",
+          "url": "https://ball67.com/live/3edb4b2f-5b1d-4bdf-94c4-6a6391b320fc/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "15:35 เมลเบิร์นวิกตอรี vs แอดิเลด ยูไนเต็ด",
+          "info": "A-League - Australia",
+          "image": "https://image.api-b-cdn.com/football/teams/944.png",
+          "url": "https://ball67.com/live/af858d77-769d-4137-bce3-09fae7fb9244/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "19:00 โปลิศ เทโร vs เกษตรศาสตร์",
+          "info": "Thai League 2 - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2775.png",
+          "url": "https://ball67.com/live/4c6de5f3-2935-4fdc-8890-b0288eda26cb/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "22:00 เฮอร์แมนน์สตัดท์ vs FC Botosani",
+          "info": "Liga I - Romania",
+          "image": "https://image.api-b-cdn.com/football/teams/2579.png",
+          "url": "https://ball67.com/live/d7648ffe-506c-41e3-a793-caf2ed9da301/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
