@@ -1,7 +1,7 @@
 {
-  "name": "ball67 update @09/03/2026",
-  "author": "Update@09/03/2026",
-  "info": "ball67 Update@09/03/2026",
+  "name": "ball67 update @10/03/2026",
+  "author": "Update@10/03/2026",
+  "info": "ball67 Update@10/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
@@ -9,82 +9,192 @@
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "00:00 อลันยาสปอร์ vs เกนเคลร์บีร์ลีจี้",
-          "info": "Süper Lig - Turkey",
-          "image": "https://image.api-b-cdn.com/football/teams/996.png",
-          "url": "https://ball67.com/live/5280f4bc-df48-40dd-8095-dfbe3938c243/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:00 Kayserispor vs แทร็บซอนสปอร์",
-          "info": "Süper Lig - Turkey",
-          "image": "https://image.api-b-cdn.com/football/teams/1001.png",
-          "url": "https://ball67.com/live/a5e4cf32-8254-4852-8b74-6ea0088be2e0/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 ซีเอฟอาร์ คลูจ์ vs Dinamo Bucuresti",
-          "info": "Liga I - Romania",
-          "image": "https://image.api-b-cdn.com/football/teams/2246.png",
-          "url": "https://ball67.com/live/87b9214c-b0f2-4388-9fe1-30e185a9588a/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 เวสต์แฮม vs เบรนท์ฟอร์ด",
-          "info": "FA Cup - England",
-          "image": "https://image.api-b-cdn.com/football/teams/48.png",
-          "url": "https://ball67.com/live/8429a88e-a57b-4935-9ca1-8120e406739f/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 อัลเมเรีย vs เลโอเนซ่า",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/723.png",
-          "url": "https://ball67.com/live/41358a9f-08e0-49d8-be2f-fcc41e4a5947/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:45 ลาซีโอ vs ซาสซูโอโล่",
-          "info": "Serie A - Italy",
-          "image": "https://image.api-b-cdn.com/football/teams/487.png",
-          "url": "https://ball67.com/live/9bdd8402-1d52-4ad3-8665-9c2106a249a0/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "03:00 เอสปันญ่อล vs เรอัล โอเบียโด้",
-          "info": "La Liga - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/540.png",
-          "url": "https://ball67.com/live/7f0135d6-f72b-43b3-859e-5545a3dc33a1/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "03:15 ทอนเดล่า vs ริโอ อเว",
-          "info": "Primeira Liga - Portugal",
-          "image": "https://image.api-b-cdn.com/football/teams/218.png",
-          "url": "https://ball67.com/live/f02903bf-1ba7-4abf-b556-287b077d8240/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "17:00 Machida Zelvia vs กังวอน เอฟซี",
-          "info": "AFC Champions League - World",
-          "image": "https://image.api-b-cdn.com/football/teams/303.png",
-          "url": "https://ball67.com/live/3686dbce-6912-45d1-ba3b-d64e30c8ab66/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
           "name": "19:15 บุรีรัมย์ ยูไนเต็ด vs เมลเบิร์น ซิตี้",
           "info": "AFC Champions League - World",
           "image": "https://image.api-b-cdn.com/football/teams/2780.png",
           "url": "https://ball67.com/live/8d8402e8-bd0b-405f-a06c-0f946233497b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 11/3/26",
+      "image": "https://img2.pic.in.th/sitelogo.md.png",
+      "stations": [
+        {
+          "name": "00:45 กาลาตาซาราย vs ลิเวอร์พูล",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/645.png",
+          "url": "https://ball67.com/live/784aa366-95fc-48fb-afc1-3d39f434a6a4/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Salford City vs วอลซอลล์",
+          "info": "League Two - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1844.png",
+          "url": "https://ball67.com/live/06d74c9f-96ff-48d2-a722-733ad8345be7/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 ฟลีตวู้ด ทาวน์ vs เชลต์แนม ทาวน์",
+          "info": "League Two - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1336.png",
+          "url": "https://ball67.com/live/63dc66eb-a5e1-45ec-a39f-2df4be45759b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Gillingham vs เอ็มเค ดอนส์",
+          "info": "League Two - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1347.png",
+          "url": "https://ball67.com/live/babd15b1-3669-49c6-87e4-8ea3cb8e902b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Barrow vs Bristol Rovers",
+          "info": "League Two - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1819.png",
+          "url": "https://ball67.com/live/d252a1fb-22cb-42b4-a924-553be3f98d6b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Mansfield Town vs Reading",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1374.png",
+          "url": "https://ball67.com/live/978b86b5-1e02-4ac9-8712-c1476c702a4e/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Wigan vs Plymouth",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/61.png",
+          "url": "https://ball67.com/live/54cf1b3b-d49b-4318-a627-375da57045cd/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Doncaster vs ลูตัน ทาวน์",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1354.png",
+          "url": "https://ball67.com/live/0ba12beb-0f94-42e8-a8a4-d2fd59e682fa/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 เอ็กซ์เซเตอร์ ซิตี้ vs ลินคอล์น ซิตี้",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1364.png",
+          "url": "https://ball67.com/live/6f89c9eb-bc64-49b4-95f1-1cb2a1a4cc5b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 สตีฟเนจ vs Leyton Orient",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1368.png",
+          "url": "https://ball67.com/live/33edc877-dc12-467f-bb4d-b5f449172637/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 บาร์นสลีย์ vs คาร์ดิฟฟ์ ซิตี้",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/747.png",
+          "url": "https://ball67.com/live/3fe5d1ec-a199-41e5-91b7-3dbf8b34a3b8/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 เลสเตอร์ vs บริสตอล ซิตี้",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/46.png",
+          "url": "https://ball67.com/live/14f25475-512e-4ae0-b96b-e331677339c2/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 มิลล์วอลล์ vs ดาร์บี",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/58.png",
+          "url": "https://ball67.com/live/9a512782-d006-4e0b-97db-2ad3f4a18b28/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 เชฟฟิลด์ เว้นส์เดย์ vs วัตฟอร์ด",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/74.png",
+          "url": "https://ball67.com/live/8620598c-36c9-4e08-931e-4ee84bba2160/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 พอร์ตสมัท vs สวอนซี ซิตี้",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1355.png",
+          "url": "https://ball67.com/live/10981cd1-18d4-4ca2-9934-a8becbb6589e/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 เร็กซ์แฮม vs ฮัลล์ซิตี",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1837.png",
+          "url": "https://ball67.com/live/783d4438-9285-48b4-92dc-2ab871cf5527/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 นิวคาสเซิล vs บาร์เซโลนา",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/34.png",
+          "url": "https://ball67.com/live/a0671cec-62fd-468a-b7f8-50dfa492ec2b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 อตาลันต้า vs บาเยิร์น",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/499.png",
+          "url": "https://ball67.com/live/af51ed5b-e5f0-4874-a4f7-06a93cb4e9a8/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 อัตเลติโกเดมาดริด vs สเปอร์ส",
+          "info": "UEFA Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/530.png",
+          "url": "https://ball67.com/live/8e402ce4-6099-4785-9b67-c9142f670854/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 สโต๊คซิตี้ vs อิปสวิช ทาวน์",
+          "info": "Championship - England",
+          "image": "https://image.api-b-cdn.com/football/teams/75.png",
+          "url": "https://ball67.com/live/65c76f3a-00f9-4c48-999d-33c82b7a2256/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "17:00 Vissel Kobe vs เอฟซี โซล",
+          "info": "AFC Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/289.png",
+          "url": "https://ball67.com/live/e820e3a8-752d-4f37-89ca-30e7d1288ff5/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "17:00 Sanfrecce Hiroshima vs ยะโฮร์ ดารุล ต๊ะซิม",
+          "info": "AFC Champions League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/282.png",
+          "url": "https://ball67.com/live/d326ebf3-3821-45f6-8153-808ec0343b07/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
