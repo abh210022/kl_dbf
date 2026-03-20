@@ -1,7 +1,63 @@
 {
-  "name": "dooballfree.cam@",
-  "author": "Update@",
-  "info": "dooballfree.cam@",
+  "name": "dooballfree.cam@20 มี.ค 2569",
+  "author": "Update@20 มี.ค 2569",
+  "info": "dooballfree.cam@20 มี.ค 2569",
   "image": "https://dooballfree.cam/wp-content/uploads/2025/05/logo-1-1.png",
-  "groups": []
+  "groups": [
+    {
+      "name": "วันที่ 20 มี.ค 2569",
+      "image": "https://dooballfree.cam/wp-content/uploads/2025/05/logo-1-1.png",
+      "groups": [
+        {
+          "name": "15:35 | เวสเทิร์น ซิดนีย์ วันเดอร์เรอร์ส vs อดิไลเด้ ยูไนเต็ด",
+          "image": "https://cdn.sportmonks.com/images/soccer/teams/16/1264.png",
+          "info": "Australia",
+          "stations": [
+            {
+              "name": "15:35 | เวสเทิร์น ซิดนีย์ วันเดอร์เรอร์ส vs อดิไลเด้ ยูไนเต็ด",
+              "image": "https://image.thai-play.com/images/tv/0RGV8VMgXBuGIyl2wEwkYWNpHDRpfk3spotv2.png",
+              "url": "https://hgzauqd5ex.koshitaro3248.com/do-ball.com/true-spotv-2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDQ6NTI6MTggQU0maGFzaF92YWx1ZT1JR0xxaFlBSndMQXllT0J0WHYwTmxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "referer": "https://dooballfree.cam/",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
+            },
+            {
+              "name": "15:35 | เวสเทิร์น ซิดนีย์ วันเดอร์เรอร์ส vs อดิไลเด้ ยูไนเต็ด",
+              "image": "https://image.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",
+              "url": "https://hgzauqd5ex.koshitaro3248.com/do-ball.com/premier-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDQ6NTI6MTggQU0maGFzaF92YWx1ZT1JR0xxaFlBSndMQXllT0J0WHYwTmxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "referer": "https://dooballfree.cam/",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
+            }
+          ]
+        },
+        {
+          "name": "19:00 | สงขลา vs แบงค์ค็อก",
+          "image": "https://cdn.sportmonks.com/images/soccer/teams/22/18454.png",
+          "info": "Thailand",
+          "stations": [
+            {
+              "name": "19:00 | สงขลา vs แบงค์ค็อก",
+              "image": "https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
+              "url": "https://k7zmbllzae.koshitaro3248.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDQ6NTI6MTggQU0maGFzaF92YWx1ZT1JR0xxaFlBSndMQXllT0J0WHYwTmxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "referer": "https://dooballfree.cam/",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
+            },
+            {
+              "name": "19:00 | สงขลา vs แบงค์ค็อก",
+              "image": "https://image.thai-play.com/images/tv/VkiHM7qyBJC0Bg9i7YPK1iMCv1HDURZsiam1.png",
+              "url": "https://xsrfddpklx.koshitaro3248.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDQ6NTI6MTggQU0maGFzaF92YWx1ZT1JR0xxaFlBSndMQXllT0J0WHYwTmxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "referer": "https://dooballfree.cam/",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
+            },
+            {
+              "name": "19:00 | สงขลา vs แบงค์ค็อก",
+              "image": "https://image.thai-play.com/images/tv/4AYwWTfKCAfJ3MJE99wr5THh54qXEl2siam1.png",
+              "url": "https://zdjoy45rli.koshitaro3248.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMC8yMDI2IDQ6NTI6MTggQU0maGFzaF92YWx1ZT1JR0xxaFlBSndMQXllT0J0WHYwTmxnPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "referer": "https://dooballfree.cam/",
+              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
