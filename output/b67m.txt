@@ -1,26 +1,74 @@
 {
-  "name": "ball67 update @23/03/2026",
-  "author": "Update@23/03/2026",
-  "info": "ball67 Update@23/03/2026",
+  "name": "ball67 update @24/03/2026",
+  "author": "Update@24/03/2026",
+  "info": "ball67 Update@24/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
-      "name": "วันที่ 24/3/26",
+      "name": "วันที่ 25/3/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "01:30 ยูเนียร์ สโลโบ vs โอตเซลุล",
-          "info": "Liga I - Romania",
-          "image": "https://image.api-b-cdn.com/football/teams/6916.png",
-          "url": "https://ball67.com/live/3e7c2aba-58f9-44f8-83df-e86e2a840468/",
+          "name": "00:45 โวล์ฟสบวร์ก (ญ) vs ลียง (ญ)",
+          "info": "UEFA Champions League Women - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1863.png",
+          "url": "https://ball67.com/live/5dc06d46-b82c-4c07-ac25-10cfab3ae14d/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "02:30 คาสเตยอน vs เลโอเนซ่า",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/5254.png",
-          "url": "https://ball67.com/live/2f0088c4-fc23-4f81-8eec-9113afed38d3/",
+          "name": "02:45 Doncaster vs พอร์ทเวล",
+          "info": "League One - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1354.png",
+          "url": "https://ball67.com/live/d00962eb-e637-44ff-8c1f-e0beae0e7239/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 Oldham vs น็อตส์ เคาน์ตี้",
+          "info": "League Two - England",
+          "image": "https://image.api-b-cdn.com/football/teams/1349.png",
+          "url": "https://ball67.com/live/dae19214-1458-45d6-94c3-adf303305041/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 อาร์เซน่อล (ญ) vs เชลซี (ญ)",
+          "info": "UEFA Champions League Women - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1850.png",
+          "url": "https://ball67.com/live/1e6cd12e-a354-400d-a2dc-245c69ffa030/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 เกษตรศาสตร์ vs ศรีสะเกษ ยูไนเต็ด",
+          "info": "Thai League 2 - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/2800.png",
+          "url": "https://ball67.com/live/dfbffaab-6f9b-4f00-a279-3826c984f03b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:35 China PR U23 vs Thailand U23",
+          "info": "Friendlies - World",
+          "image": "https://image.api-b-cdn.com/football/teams/10932.png",
+          "url": "https://ball67.com/live/9477a177-a55f-4e4b-97b7-6ea7a881e090/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "19:00 England U18 vs Bulgaria U18",
+          "info": "Friendlies - World",
+          "image": "https://image.api-b-cdn.com/football/teams/21466.png",
+          "url": "https://ball67.com/live/1aed03ca-8db5-4148-96ff-c79c8d647ecf/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "21:00 Kyrgyzstan vs Equatorial Guinea",
+          "info": "Friendlies - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1554.png",
+          "url": "https://ball67.com/live/faad7c66-6c29-41a3-aef9-f4f0d2b30145/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }

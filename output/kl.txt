@@ -1,47 +1,9 @@
 {
-  "name": "ดู dookeela4.live update @23/03/2026",
-  "author": "Update@23/03/2026",
-  "info": "dookeela4.live Update@23/03/2026",
+  "name": "ดู dookeela4.live update @24/03/2026",
+  "author": "Update@24/03/2026",
+  "info": "dookeela4.live Update@24/03/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 24/03/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "00:00 ยูเนี่ยน เบอร์ลิน (ญ) vs แวร์เดอร์ เบรเมน (ญ)",
-          "info": "Frauen Bundesliga",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/82.png",
-          "url": "https://dookeela4.live/football/match/575214",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 Castellón vs Cultural Leonesa",
-          "info": "Segunda División",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/141.png",
-          "url": "https://dookeela4.live/football/match/575226",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "05:00 Estudiantes L.P. vs เซ็นทรัล คอร์โดบ้า",
-          "info": "Liga Profesional Argentina",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/128.png",
-          "url": "https://dookeela4.live/football/match/575235",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "07:15 ซีเอ ฮูราแคน vs บาร์รากัส เซ็นทรัล",
-          "info": "Liga Profesional Argentina",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/128.png",
-          "url": "https://dookeela4.live/football/match/575247",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 25/03/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
