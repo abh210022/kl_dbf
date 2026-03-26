@@ -1,48 +1,98 @@
 {
-  "name": "ball67 update @25/03/2026",
-  "author": "Update@25/03/2026",
-  "info": "ball67 Update@25/03/2026",
+  "name": "ball67 update @26/03/2026",
+  "author": "Update@26/03/2026",
+  "info": "ball67 Update@26/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
-      "name": "วันที่ 25/3/26",
+      "name": "วันที่ 27/3/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "18:00 เกษตรศาสตร์ vs ศรีสะเกษ ยูไนเต็ด",
-          "info": "Thai League 2 - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2800.png",
-          "url": "https://ball67.com/live/dfbffaab-6f9b-4f00-a279-3826c984f03b/",
+          "name": "00:00 ตุรเคีย vs โรมาเนีย",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/777.png",
+          "url": "https://ball67.com/live/6a0aa382-3566-430f-90eb-e916aa8e3647/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "18:35 จีน U23 vs ไทย U23",
+          "name": "02:45 เดนมาร์ก vs มาซิโดเนียเหนือ",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/21.png",
+          "url": "https://ball67.com/live/bc9d3d8b-c579-4c4d-976c-81d10c108e23/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 โปแลนด์ vs แอลเบเนีย",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/24.png",
+          "url": "https://ball67.com/live/cc97c4bc-c31d-43ff-abab-1f03903326a2/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 เวลส์ vs บอสเนีย",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/767.png",
+          "url": "https://ball67.com/live/a43d625a-afca-4133-8943-822edd2e535a/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 อิตาลี vs ไอร์แลนด์เหนือ",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/768.png",
+          "url": "https://ball67.com/live/550fc004-cf86-49af-8777-97a7a0c388ce/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 สโลวะเกีย vs โคโซโว",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/773.png",
+          "url": "https://ball67.com/live/e5b008b1-6188-4b66-bc29-56182ae0669d/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 สาธารณรัฐเช็ก vs ไอร์แลนด์",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/770.png",
+          "url": "https://ball67.com/live/1a441c05-a686-48f8-aa8a-442075d00b0b/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:45 ยูเครน vs สวีเดน",
+          "info": "World Cup - Qualification Europe - World",
+          "image": "https://image.api-b-cdn.com/football/teams/772.png",
+          "url": "https://ball67.com/live/7d2b9071-2b0b-4a68-a3ce-65b324798b65/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "13:00 Japan U21 vs USA U21",
           "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/10932.png",
-          "url": "https://ball67.com/live/9477a177-a55f-4e4b-97b7-6ea7a881e090/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 26/3/26",
-      "image": "https://img2.pic.in.th/sitelogo.md.png",
-      "stations": [
-        {
-          "name": "00:45 เรอัลมาดริด (ญ) vs บาร์เซโลนา (ญ)",
-          "info": "UEFA Champions League Women - World",
-          "image": "https://image.api-b-cdn.com/football/teams/15224.png",
-          "url": "https://ball67.com/live/e8edaa07-a268-405f-b886-3e6ed52a9ca1/",
+          "image": "https://image.api-b-cdn.com/football/teams/23539.png",
+          "url": "https://ball67.com/live/c53f06f4-f2f4-4bd0-8758-10bbced42212/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "03:00 แมนเชสเตอร์ยูไนเต็ด (ญ) vs บาเยิร์น (ญ)",
-          "info": "UEFA Champions League Women - World",
-          "image": "https://image.api-b-cdn.com/football/teams/4898.png",
-          "url": "https://ball67.com/live/ff1247b7-985e-46c9-9fa6-27289b6dfb1d/",
+          "name": "22:00 Slovakia U18 vs Serbia U18",
+          "info": "Friendlies - World",
+          "image": "https://image.api-b-cdn.com/football/teams/21479.png",
+          "url": "https://ball67.com/live/80bc8680-cd93-47f1-953c-92373d9d70f7/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "23:00 Kyrgyz Republic U20 vs Bosnia-Herzegovina U17",
+          "info": "Friendlies - World",
+          "image": "https://image.api-b-cdn.com/football/teams/21058.png",
+          "url": "https://ball67.com/live/92926e1d-be37-44eb-b6b6-275547d02ae3/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
