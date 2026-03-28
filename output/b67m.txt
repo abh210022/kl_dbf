@@ -1,45 +1,13 @@
 {
-  "name": "ball67 update @27/03/2026",
-  "author": "Update@27/03/2026",
-  "info": "ball67 Update@27/03/2026",
+  "name": "ball67 update @28/03/2026",
+  "author": "Update@28/03/2026",
+  "info": "ball67 Update@28/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
       "name": "วันที่ 28/3/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
-        {
-          "name": "01:00 คอร์โดบ้า vs มิรานเดส",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/713.png",
-          "url": "https://ball67.com/live/12ba6e18-cd68-4c10-a836-1f1da8663c9a/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:45 สวิตเซอร์แลนด์ vs เยอรมนี",
-          "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/15.png",
-          "url": "https://ball67.com/live/9dee3a8c-a1a4-45be-be21-3809251cc980/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:45 เนเธอร์แลนด์ vs นอร์เวย์",
-          "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/1118.png",
-          "url": "https://ball67.com/live/a329900f-6be5-43b6-9548-f7f28c77a13b/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:45 อังกฤษ vs อุรุกวัย",
-          "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/10.png",
-          "url": "https://ball67.com/live/e66ebb83-c004-41c8-9fff-5d3f62cb9c9f/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "14:00 ไทย U23 vs เวียดนาม U23",
           "info": "Friendlies - World",
@@ -53,6 +21,44 @@
           "info": "Thai League 2 - Thailand",
           "image": "https://image.api-b-cdn.com/football/teams/2796.png",
           "url": "https://ball67.com/live/2e0646bf-da33-43b9-82a2-fda1931347d9/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 29/3/26",
+      "image": "https://img2.pic.in.th/sitelogo.md.png",
+      "stations": [
+        {
+          "name": "00:30 มาลากา vs เลกาเนส",
+          "info": "Segunda División - Spain",
+          "image": "https://image.api-b-cdn.com/football/teams/535.png",
+          "url": "https://ball67.com/live/43829595-5fba-40b0-91dc-18f2373bdd42/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:00 สปอร์ติงเดคีคอน vs ลาโกรุญญา",
+          "info": "Segunda División - Spain",
+          "image": "https://image.api-b-cdn.com/football/teams/731.png",
+          "url": "https://ball67.com/live/0c40b80b-ab07-4540-a4c3-88c73b2000be/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 นครศรี ยูไนเต็ด vs ตราด",
+          "info": "Thai League 2 - Thailand",
+          "image": "https://image.api-b-cdn.com/football/teams/10197.png",
+          "url": "https://ball67.com/live/2e3cd5a8-45e7-46f5-bb96-771446e63444/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "23:30 เรอัลซาราโกซา vs ราซินเดซันตันเดร์",
+          "info": "Segunda División - Spain",
+          "image": "https://image.api-b-cdn.com/football/teams/732.png",
+          "url": "https://ball67.com/live/40ed4a42-4229-46d5-bad4-f430b3eb9514/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
