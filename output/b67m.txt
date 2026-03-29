@@ -1,51 +1,13 @@
 {
-  "name": "ball67 update @28/03/2026",
-  "author": "Update@28/03/2026",
-  "info": "ball67 Update@28/03/2026",
+  "name": "ball67 update @29/03/2026",
+  "author": "Update@29/03/2026",
+  "info": "ball67 Update@29/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
-    {
-      "name": "วันที่ 28/3/26",
-      "image": "https://img2.pic.in.th/sitelogo.md.png",
-      "stations": [
-        {
-          "name": "14:00 ไทย U23 vs เวียดนาม U23",
-          "info": "Friendlies - World",
-          "image": "https://image.api-b-cdn.com/football/teams/10960.png",
-          "url": "https://ball67.com/live/dcee4426-08de-4904-a87e-8251ca67110a/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "18:30 หนองบัว พิชญ vs โปลิศ เทโร",
-          "info": "Thai League 2 - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/2796.png",
-          "url": "https://ball67.com/live/2e0646bf-da33-43b9-82a2-fda1931347d9/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 29/3/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
-        {
-          "name": "00:30 มาลากา vs เลกาเนส",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/535.png",
-          "url": "https://ball67.com/live/43829595-5fba-40b0-91dc-18f2373bdd42/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "03:00 สปอร์ติงเดคีคอน vs ลาโกรุญญา",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/731.png",
-          "url": "https://ball67.com/live/0c40b80b-ab07-4540-a4c3-88c73b2000be/",
-          "referer": "https://ball67.com/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "18:00 นครศรี ยูไนเต็ด vs ตราด",
           "info": "Thai League 2 - Thailand",
@@ -59,6 +21,20 @@
           "info": "Segunda División - Spain",
           "image": "https://image.api-b-cdn.com/football/teams/732.png",
           "url": "https://ball67.com/live/40ed4a42-4229-46d5-bad4-f430b3eb9514/",
+          "referer": "https://ball67.com/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 30/3/26",
+      "image": "https://img2.pic.in.th/sitelogo.md.png",
+      "stations": [
+        {
+          "name": "02:00 อัลเมเรีย vs เรอัลโซเซียดัด II",
+          "info": "Segunda División - Spain",
+          "image": "https://image.api-b-cdn.com/football/teams/723.png",
+          "url": "https://ball67.com/live/c23bb721-3fec-4d87-a60d-3a5a3f670575/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
