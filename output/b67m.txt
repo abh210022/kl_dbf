@@ -1,40 +1,34 @@
 {
-  "name": "ball67 update @29/03/2026",
-  "author": "Update@29/03/2026",
-  "info": "ball67 Update@29/03/2026",
+  "name": "ball67 update @30/03/2026",
+  "author": "Update@30/03/2026",
+  "info": "ball67 Update@30/03/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": [
     {
-      "name": "วันที่ 29/3/26",
+      "name": "วันที่ 31/3/26",
       "image": "https://img2.pic.in.th/sitelogo.md.png",
       "stations": [
         {
-          "name": "18:00 นครศรี ยูไนเต็ด vs ตราด",
-          "info": "Thai League 2 - Thailand",
-          "image": "https://image.api-b-cdn.com/football/teams/10197.png",
-          "url": "https://ball67.com/live/2e3cd5a8-45e7-46f5-bb96-771446e63444/",
+          "name": "19:30 ไทย vs เติร์กเมนิสถาน",
+          "info": "Asian Cup - Qualification - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1564.png",
+          "url": "https://ball67.com/live/9e4634ac-c2a6-4f1f-95e8-6690710f80e8/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "23:30 เรอัลซาราโกซา vs ราซินเดซันตันเดร์",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/732.png",
-          "url": "https://ball67.com/live/40ed4a42-4229-46d5-bad4-f430b3eb9514/",
+          "name": "23:00 ลัตเวีย vs ยิบรอลตาร์",
+          "info": "UEFA Nations League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1092.png",
+          "url": "https://ball67.com/live/7ac1103f-8b00-4001-9dd5-4102c1bdcebf/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
-    {
-      "name": "วันที่ 30/3/26",
-      "image": "https://img2.pic.in.th/sitelogo.md.png",
-      "stations": [
+        },
         {
-          "name": "02:00 อัลเมเรีย vs เรอัลโซเซียดัด II",
-          "info": "Segunda División - Spain",
-          "image": "https://image.api-b-cdn.com/football/teams/723.png",
-          "url": "https://ball67.com/live/c23bb721-3fec-4d87-a60d-3a5a3f670575/",
+          "name": "23:00 ลักเซมเบิร์ก vs มอลตา",
+          "info": "UEFA Nations League - World",
+          "image": "https://image.api-b-cdn.com/football/teams/1102.png",
+          "url": "https://ball67.com/live/20ccd463-d9aa-47c2-a7d2-4504bb0703f1/",
           "referer": "https://ball67.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
