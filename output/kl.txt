@@ -1,91 +1,13 @@
 {
-  "name": "ดู dookeela4.live update @30/03/2026",
-  "author": "Update@30/03/2026",
-  "info": "dookeela4.live Update@30/03/2026",
+  "name": "ดู dookeela4.live update @31/03/2026",
+  "author": "Update@31/03/2026",
+  "info": "dookeela4.live Update@31/03/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 30/03/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "10:00 เคปเวิร์ด vs ฟินแลนด์",
-          "info": "FIFA Series",
-          "image": "https://media.api-sports.io/football/leagues/1222.png",
-          "url": "https://dookeela4.live/football/match/578345",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "13:15 นิวซีแลนด์ vs ชิลี",
-          "info": "FIFA Series",
-          "image": "https://media.api-sports.io/football/leagues/1222.png",
-          "url": "https://dookeela4.live/football/match/578346",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "17:00 ตรินิแดดและโตเบโก vs กาบอง",
-          "info": "FIFA Series",
-          "image": "https://media.api-sports.io/football/leagues/1222.png",
-          "url": "https://dookeela4.live/football/match/578353",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "21:00 อุซเบกิสถาน vs เวเนซุเอลา",
-          "info": "FIFA Series",
-          "image": "https://media.api-sports.io/football/leagues/1222.png",
-          "url": "https://dookeela4.live/football/match/578367",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "22:00 อาเซอร์ไบจาน vs เซียร์ราลีโอน",
-          "info": "FIFA Series",
-          "image": "https://media.api-sports.io/football/leagues/1222.png",
-          "url": "https://dookeela4.live/football/match/578377",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "23:00 ฮัมบูร์ก SV (ญ) vs เลเวอร์คูเซ่น (ญ)",
-          "info": "Frauen Bundesliga",
-          "image": "https://media.api-sports.io/football/leagues/82.png",
-          "url": "https://dookeela4.live/football/match/578379",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "23:00 ไซปรัส vs มอลโดวา",
-          "info": "Friendlies",
-          "image": "https://media.api-sports.io/football/leagues/10.png",
-          "url": "https://dookeela4.live/football/match/578380",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 31/03/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
-        {
-          "name": "01:45 เยอรมนี vs กานา",
-          "info": "Friendlies",
-          "image": "https://media.api-sports.io/football/leagues/10.png",
-          "url": "https://dookeela4.live/football/match/578415",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "07:15 Union Santa Fe vs Agropecuario",
-          "info": "Copa Argentina",
-          "image": "https://media.api-sports.io/football/leagues/130.png",
-          "url": "https://dookeela4.live/football/match/578442",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "13:00 จีน vs แคเมอรูน",
           "info": "FIFA Series",
