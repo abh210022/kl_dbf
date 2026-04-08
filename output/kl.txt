@@ -1,83 +1,13 @@
 {
-  "name": "ดู dookeela4.live update @07/04/2026",
-  "author": "Update@07/04/2026",
-  "info": "dookeela4.live Update@07/04/2026",
+  "name": "ดู dookeela4.live update @08/04/2026",
+  "author": "Update@08/04/2026",
+  "info": "dookeela4.live Update@08/04/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 07/04/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "16:00 เมลเบิร์น ซิตี้ vs เซ็นทรัล โคสต์ มาริเนิร์ส",
-          "info": "A-League",
-          "image": "https://media.api-sports.io/football/leagues/188.png",
-          "url": "https://dookeela4.live/football/match/582635",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "19:15 ยะโฮร์ ดารุล vs กัวลา ลัมเปอร์",
-          "info": "Malaysia Cup",
-          "image": "https://media.api-sports.io/football/leagues/499.png",
-          "url": "https://dookeela4.live/football/match/582656",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 08/04/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
-        {
-          "name": "00:00 FC Aarau vs Étoile Carouge",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/582722",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:30 สเตด อูชชี vs Rapperswil",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/582739",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:30 วาดุซ vs เบลลินโซนา",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/582740",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:30 วิล 1900 vs เนอชาแตล ซามักซ์",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/582741",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 สปอร์ติงลิสบอน vs อาร์เซนอล",
-          "info": "UEFA Champions League",
-          "image": "https://media.api-sports.io/football/leagues/2.png",
-          "url": "https://dookeela4.live/football/match/582763",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 เรอัล มาดริด vs บาเยิร์น",
-          "info": "UEFA Champions League",
-          "image": "https://media.api-sports.io/football/leagues/2.png",
-          "url": "https://dookeela4.live/football/match/582764",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "16:00 Japan U20 W vs Australia U20 W",
           "info": "AFC U20 Asian Cup - Women",
@@ -95,10 +25,34 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "16:30 โตจิหงิ vs วานเราเร่ ฮะชิโนเฮะ",
+          "info": "J2 League",
+          "image": "https://media.api-sports.io/football/leagues/99.png",
+          "url": "https://dookeela4.live/football/match/551814",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "17:00 กัมบะ โอซาก้า vs แบงค็อก ยูไนเต็ด",
           "info": "AFC Cup",
           "image": "https://media.api-sports.io/football/leagues/18.png",
           "url": "https://dookeela4.live/football/match/582811",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 Korea DPR U20 vs Korea Republic U20 W",
+          "info": "AFC U20 Asian Cup - Women",
+          "image": "https://media.api-sports.io/football/leagues/1070.png",
+          "url": "https://dookeela4.live/football/match/582903",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 Uzbekistan U20 W vs Jordan U20 W",
+          "info": "AFC U20 Asian Cup - Women",
+          "image": "https://media.api-sports.io/football/leagues/1070.png",
+          "url": "https://dookeela4.live/football/match/582904",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
