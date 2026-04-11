@@ -1,50 +1,42 @@
 {
-  "name": "ดู dookeela4.live update @10/04/2026",
-  "author": "Update@10/04/2026",
-  "info": "dookeela4.live Update@10/04/2026",
+  "name": "ดู dookeela4.live update @11/04/2026",
+  "author": "Update@11/04/2026",
+  "info": "dookeela4.live Update@11/04/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
     {
-      "name": "วันที่ 10/04/69",
+      "name": "🔴Live",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
         {
-          "name": "15:30 PSIM Yogyakarta vs PSM มากัสซาร์",
-          "info": "Liga 1",
-          "image": "https://media.api-sports.io/football/leagues/274.png",
-          "url": "https://dookeela4.live/football/match/583276",
+          "name": "กำลังแข่ง เจฟ ยูไนเต็ด vs มิโตะ ฮอลลี่ฮ็อค",
+          "info": "J1 League",
+          "image": "https://media.api-sports.io/football/leagues/98.png",
+          "url": "https://dookeela4.live/football/match/583744",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "16:35 เซ็นทรัล โคสต์ มาริเนิร์ส vs บริสแบน โรว์",
+          "name": "กำลังแข่ง Auckland vs เมลเบิร์น วิคตอรี",
           "info": "A-League",
           "image": "https://media.api-sports.io/football/leagues/188.png",
-          "url": "https://dookeela4.live/football/match/583287",
+          "url": "https://dookeela4.live/football/match/583756",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "19:00 เปอร์ซิต้า ตันเกอรัง vs อเรม่า มาลัง",
-          "info": "Liga 1",
-          "image": "https://media.api-sports.io/football/leagues/274.png",
-          "url": "https://dookeela4.live/football/match/583323",
+          "name": "กำลังแข่ง โปฮัง vs เชจู ยูไนเต็ด",
+          "info": "K League 1",
+          "image": "https://media.api-sports.io/football/leagues/292.png",
+          "url": "https://dookeela4.live/football/match/583760",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "23:30 ฟอร์ทูน่า ดุสเซลดอร์ฟ vs โฮลสไตน์ คีล",
-          "info": "2. Bundesliga",
-          "image": "https://media.api-sports.io/football/leagues/79.png",
-          "url": "https://dookeela4.live/football/match/583514",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "23:30 คาร์ลสรูห์ vs อาร์มีเนีย บีเลเฟลด์",
-          "info": "2. Bundesliga",
-          "image": "https://media.api-sports.io/football/leagues/79.png",
-          "url": "https://dookeela4.live/football/match/583515",
+          "name": "กำลังแข่ง เอฟซี โซล vs ช็อนบุก",
+          "info": "K League 1",
+          "image": "https://media.api-sports.io/football/leagues/292.png",
+          "url": "https://dookeela4.live/football/match/583761",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
@@ -54,174 +46,6 @@
       "name": "วันที่ 11/04/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
-        {
-          "name": "00:00 ปารีส เอฟซี vs โมนาโก",
-          "info": "Ligue 1",
-          "image": "https://media.api-sports.io/football/leagues/61.png",
-          "url": "https://dookeela4.live/football/match/583540",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:00 เบซิคตัส vs อันตาลยาสปอร์",
-          "info": "Süper Lig",
-          "image": "https://media.api-sports.io/football/leagues/203.png",
-          "url": "https://dookeela4.live/football/match/583543",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "00:30 เนอชาแตล ซามักซ์ vs สตาเด้ นยอนเนียส",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/583620",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 ทเวนเต้ vs โวเลนดัม",
-          "info": "Eredivisie",
-          "image": "https://media.api-sports.io/football/leagues/88.png",
-          "url": "https://dookeela4.live/football/match/583631",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 เอฟซี ไอนด์โฮเฟ่น vs โรด้า เจซี",
-          "info": "Eerste Divisie",
-          "image": "https://media.api-sports.io/football/leagues/89.png",
-          "url": "https://dookeela4.live/football/match/583633",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 วาลไวก์ vs เอ็มเมน",
-          "info": "Eerste Divisie",
-          "image": "https://media.api-sports.io/football/leagues/89.png",
-          "url": "https://dookeela4.live/football/match/583635",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 AS Eupen vs Beerschot Wilrijk",
-          "info": "Challenger Pro League",
-          "image": "https://media.api-sports.io/football/leagues/145.png",
-          "url": "https://dookeela4.live/football/match/583641",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:00 Lokeren-Temse vs Seraing United",
-          "info": "Challenger Pro League",
-          "image": "https://media.api-sports.io/football/leagues/145.png",
-          "url": "https://dookeela4.live/football/match/583642",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:15 Étoile Carouge vs สเตด อูชชี",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/583658",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:15 อีเวอร์ดอน vs วาดุซ",
-          "info": "Challenge League",
-          "image": "https://media.api-sports.io/football/leagues/208.png",
-          "url": "https://dookeela4.live/football/match/583659",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:30 เอาก์สบวร์ก vs ฮอฟเฟนไฮม์",
-          "info": "Bundesliga",
-          "image": "https://media.api-sports.io/football/leagues/78.png",
-          "url": "https://dookeela4.live/football/match/583662",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:30 AD Ceuta FC vs เรอัล โซเซียดาด B",
-          "info": "Segunda División",
-          "image": "https://media.api-sports.io/football/leagues/141.png",
-          "url": "https://dookeela4.live/football/match/583665",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:30 โฟรซิโนเน่ vs ปาแลร์โม่",
-          "info": "Serie B",
-          "image": "https://media.api-sports.io/football/leagues/136.png",
-          "url": "https://dookeela4.live/football/match/583666",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:45 โรมา vs ปิซ่า",
-          "info": "Serie A",
-          "image": "https://media.api-sports.io/football/leagues/135.png",
-          "url": "https://dookeela4.live/football/match/583673",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "01:45 ชาเลอร์รัว vs อันท์เวิร์ป",
-          "info": "Jupiler Pro League",
-          "image": "https://media.api-sports.io/football/leagues/144.png",
-          "url": "https://dookeela4.live/football/match/583687",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 เรอัล มาดริด vs คิโรน่า",
-          "info": "La Liga",
-          "image": "https://media.api-sports.io/football/leagues/140.png",
-          "url": "https://dookeela4.live/football/match/583690",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 CR Belouizdad vs Zamalek SC",
-          "info": "CAF Confederation Cup",
-          "image": "https://media.api-sports.io/football/leagues/20.png",
-          "url": "https://dookeela4.live/football/match/583693",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:05 มาร์แซย์ vs เม็ตซ์",
-          "info": "Ligue 1",
-          "image": "https://media.api-sports.io/football/leagues/61.png",
-          "url": "https://dookeela4.live/football/match/583694",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "08:00 พูอีบลา vs Leon",
-          "info": "Liga MX",
-          "image": "https://media.api-sports.io/football/leagues/262.png",
-          "url": "https://dookeela4.live/football/match/583731",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "11:00 เจฟ ยูไนเต็ด vs มิโตะ ฮอลลี่ฮ็อค",
-          "info": "J1 League",
-          "image": "https://media.api-sports.io/football/leagues/98.png",
-          "url": "https://dookeela4.live/football/match/583744",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "12:00 Auckland vs เมลเบิร์น วิคตอรี",
-          "info": "A-League",
-          "image": "https://media.api-sports.io/football/leagues/188.png",
-          "url": "https://dookeela4.live/football/match/583756",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "12:00 อวิสป้า ฟุกุโอกะ vs วี-วาเรน นากาซากิ",
           "info": "J1 League",
@@ -243,22 +67,6 @@
           "info": "J1 League",
           "image": "https://media.api-sports.io/football/leagues/98.png",
           "url": "https://dookeela4.live/football/match/583759",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "12:00 โปฮัง vs เชจู ยูไนเต็ด",
-          "info": "K League 1",
-          "image": "https://media.api-sports.io/football/leagues/292.png",
-          "url": "https://dookeela4.live/football/match/583760",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "12:00 เอฟซี โซล vs ช็อนบุก",
-          "info": "K League 1",
-          "image": "https://media.api-sports.io/football/leagues/292.png",
-          "url": "https://dookeela4.live/football/match/583761",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -351,6 +159,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "15:30 มารูด้า vs เปอร์ซิค เคดีรี่",
+          "info": "Liga 1",
+          "image": "https://media.api-sports.io/football/leagues/274.png",
+          "url": "https://dookeela4.live/football/match/584046",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "16:30 ยะโฮร์ ดารุล vs ตรังกานู",
           "info": "Super League",
           "image": "https://media.api-sports.io/football/leagues/278.png",
@@ -407,6 +223,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "18:30 อาร์เซนอล vs บอร์นมัธ",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/584003",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "18:30 นครราชสีมา vs แบงค็อก ยูไนเต็ด",
           "info": "Thai League 1",
           "image": "https://media.api-sports.io/football/leagues/296.png",
@@ -419,14 +243,6 @@
           "info": "La Liga",
           "image": "https://media.api-sports.io/football/leagues/140.png",
           "url": "https://dookeela4.live/football/match/584038",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "19:00 มารูด้า vs เปอร์ซิค เคดีรี่",
-          "info": "Liga 1",
-          "image": "https://media.api-sports.io/football/leagues/274.png",
-          "url": "https://dookeela4.live/football/match/584046",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -551,6 +367,22 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "21:00 เบรนท์ฟอร์ด vs เอฟเวอร์ตัน",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/584380",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "21:00 เบิร์นลีย์ vs ไบรท์ตัน",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/584381",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "21:00 RWDM vs RSC Anderlecht II",
           "info": "Challenger Pro League",
           "image": "https://media.api-sports.io/football/leagues/145.png",
@@ -671,6 +503,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "23:30 ลิเวอร์พูล vs ฟูแล่ม",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/585027",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "23:30 ซังต์ เพาลี vs บาเยิร์น",
           "info": "Bundesliga",
           "image": "https://media.api-sports.io/football/leagues/78.png",
@@ -769,6 +609,14 @@
           "info": "Challenger Pro League",
           "image": "https://media.api-sports.io/football/leagues/145.png",
           "url": "https://dookeela4.live/football/match/585163",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:00 Al Akhdoud vs อัล นาสเซอร์",
+          "info": "Pro League",
+          "image": "https://media.api-sports.io/football/leagues/307.png",
+          "url": "https://dookeela4.live/football/match/585168",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -1141,14 +989,6 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
-          "name": "15:45 Kuching FA vs Pdrm",
-          "info": "Super League",
-          "image": "https://media.api-sports.io/football/leagues/278.png",
-          "url": "https://dookeela4.live/football/match/585684",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
           "name": "16:00 เพิร์ท กลอรี่ vs แมคอาเธอร์",
           "info": "A-League",
           "image": "https://media.api-sports.io/football/leagues/188.png",
@@ -1209,6 +1049,14 @@
           "info": "2. Bundesliga",
           "image": "https://media.api-sports.io/football/leagues/79.png",
           "url": "https://dookeela4.live/football/match/585681",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:30 Kuching FA vs Pdrm",
+          "info": "Super League",
+          "image": "https://media.api-sports.io/football/leagues/278.png",
+          "url": "https://dookeela4.live/football/match/585684",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -1281,6 +1129,30 @@
           "info": "Serie A",
           "image": "https://media.api-sports.io/football/leagues/135.png",
           "url": "https://dookeela4.live/football/match/585812",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 คริสตัล พาเลซ vs นิวคาสเซิ่ล",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/585813",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 น็อตติ้งแฮม ฟอเรสต์ vs แอสตัน วิลลา",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/585814",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:00 ซันเดอร์แลนด์ vs สเปอร์ส",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/585815",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -1381,6 +1253,14 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "22:30 เชลซี vs แมนเชสเตอร์ ซิตี้",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/586293",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "22:30 สตุ๊ตการ์ท vs ฮัมบูร์ก",
           "info": "Bundesliga",
           "image": "https://media.api-sports.io/football/leagues/78.png",
@@ -1425,6 +1305,210 @@
           "info": "Jupiler Pro League",
           "image": "https://media.api-sports.io/football/leagues/144.png",
           "url": "https://dookeela4.live/football/match/586373",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 13/04/69",
+      "image": "https://dookeela4.live/images/logo-bar.png",
+      "stations": [
+        {
+          "name": "00:00 กาลาตาซาราย vs โคแคลิสปอร์",
+          "info": "Süper Lig",
+          "image": "https://media.api-sports.io/football/leagues/203.png",
+          "url": "https://dookeela4.live/football/match/586400",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "00:00 เบนฟิกา vs นาซิอองนาล",
+          "info": "Primeira Liga",
+          "image": "https://media.api-sports.io/football/leagues/94.png",
+          "url": "https://dookeela4.live/football/match/586401",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "00:15 Dender vs Zulte Waregem",
+          "info": "Jupiler Pro League",
+          "image": "https://media.api-sports.io/football/leagues/144.png",
+          "url": "https://dookeela4.live/football/match/586417",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "00:30 ไมนซ์ 05 vs ไฟร์บวร์ก",
+          "info": "Bundesliga",
+          "image": "https://media.api-sports.io/football/leagues/78.png",
+          "url": "https://dookeela4.live/football/match/586418",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "00:30 Reggiana vs Carrarese",
+          "info": "Serie B",
+          "image": "https://media.api-sports.io/football/leagues/136.png",
+          "url": "https://dookeela4.live/football/match/586421",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:00 Platense vs Gimnasia M.",
+          "info": "Liga Profesional Argentina",
+          "image": "https://media.api-sports.io/football/leagues/128.png",
+          "url": "https://dookeela4.live/football/match/586423",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:00 พูมาส ยูนัม vs Mazatlán",
+          "info": "Liga MX",
+          "image": "https://media.api-sports.io/football/leagues/262.png",
+          "url": "https://dookeela4.live/football/match/586424",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:45 como vs อินเตอร์",
+          "info": "Serie A",
+          "image": "https://media.api-sports.io/football/leagues/135.png",
+          "url": "https://dookeela4.live/football/match/586455",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:45 ลียง vs ลอริยองต์",
+          "info": "Ligue 1",
+          "image": "https://media.api-sports.io/football/leagues/61.png",
+          "url": "https://dookeela4.live/football/match/586456",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:00 แอธเลติก บิลเบา vs บียาร์เรอัล",
+          "info": "La Liga",
+          "image": "https://media.api-sports.io/football/leagues/140.png",
+          "url": "https://dookeela4.live/football/match/586457",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:00 Racing Santander vs อัลเมเรีย",
+          "info": "Segunda División",
+          "image": "https://media.api-sports.io/football/leagues/141.png",
+          "url": "https://dookeela4.live/football/match/586458",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:30 เอสโตริล vs ปอร์โต้",
+          "info": "Primeira Liga",
+          "image": "https://media.api-sports.io/football/leagues/94.png",
+          "url": "https://dookeela4.live/football/match/586488",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "03:30 ซีเอ ฮูราแคน vs โรซาริโอ เซ็นทรัล",
+          "info": "Liga Profesional Argentina",
+          "image": "https://media.api-sports.io/football/leagues/128.png",
+          "url": "https://dookeela4.live/football/match/586536",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "04:30 คอรินเทียนส์ vs พัลไมรัส",
+          "info": "Serie A",
+          "image": "https://media.api-sports.io/football/leagues/71.png",
+          "url": "https://dookeela4.live/football/match/586553",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "06:00 โคลัมบัส ครูว์ vs ออร์แลนโด ซิตี้",
+          "info": "Major League Soccer",
+          "image": "https://media.api-sports.io/football/leagues/253.png",
+          "url": "https://dookeela4.live/football/match/586568",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "06:00 Vancouver FC vs Forge",
+          "info": "Canadian Premier League",
+          "image": "https://media.api-sports.io/football/leagues/479.png",
+          "url": "https://dookeela4.live/football/match/586573",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "08:00 Toluca vs Atletico San Luis",
+          "info": "Liga MX",
+          "image": "https://media.api-sports.io/football/leagues/262.png",
+          "url": "https://dookeela4.live/football/match/586593",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        }
+      ]
+    },
+    {
+      "name": "วันที่ 14/04/69",
+      "image": "https://dookeela4.live/images/logo-bar.png",
+      "stations": [
+        {
+          "name": "01:00 ยอง อาแจ็กซ์ vs FC OSS",
+          "info": "Eerste Divisie",
+          "image": "https://media.api-sports.io/football/leagues/89.png",
+          "url": "https://dookeela4.live/football/match/586726",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:00 Jong AZ vs Jong PSV",
+          "info": "Eerste Divisie",
+          "image": "https://media.api-sports.io/football/leagues/89.png",
+          "url": "https://dookeela4.live/football/match/586727",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:00 Jong Utrecht vs วิเทสส์",
+          "info": "Eerste Divisie",
+          "image": "https://media.api-sports.io/football/leagues/89.png",
+          "url": "https://dookeela4.live/football/match/586728",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:30 เรอัล บายาโดลิด vs เออิบาร์",
+          "info": "Segunda División",
+          "image": "https://media.api-sports.io/football/leagues/141.png",
+          "url": "https://dookeela4.live/football/match/586737",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "01:45 ฟิออเรนตินา vs ลาซีโอ",
+          "info": "Serie A",
+          "image": "https://media.api-sports.io/football/leagues/135.png",
+          "url": "https://dookeela4.live/football/match/586743",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:00 แมนเชสเตอร์ยูไนเต็ด vs ลีดส์",
+          "info": "Premier League",
+          "image": "https://media.api-sports.io/football/leagues/39.png",
+          "url": "https://dookeela4.live/football/match/586745",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:00 เลบันเต้ vs เกตาเฟ่",
+          "info": "La Liga",
+          "image": "https://media.api-sports.io/football/leagues/140.png",
+          "url": "https://dookeela4.live/football/match/586746",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         }
