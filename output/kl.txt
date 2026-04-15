@@ -1,72 +1,26 @@
 {
-  "name": "ดู dookeela4.live update @14/04/2026",
-  "author": "Update@14/04/2026",
-  "info": "dookeela4.live Update@14/04/2026",
+  "name": "ดู dookeela4.live update @15/04/2026",
+  "author": "Update@15/04/2026",
+  "info": "dookeela4.live Update@15/04/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 14/04/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "21:45 Shabab Al Ahli Dubai vs Tractor Sazi",
-          "info": "AFC Champions League",
-          "image": "https://media.api-sports.io/football/leagues/17.png",
-          "url": "https://dookeela4.live/football/match/563257",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 15/04/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
         {
-          "name": "01:00 Al-Qadisiyah FC vs อัล ชาบับ",
-          "info": "Pro League",
-          "image": "https://media.api-sports.io/football/leagues/307.png",
-          "url": "https://dookeela4.live/football/match/586913",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 เซาแธมป์ตัน vs แบล็กเบิร์น",
-          "info": "Championship",
-          "image": "https://media.api-sports.io/football/leagues/40.png",
-          "url": "https://dookeela4.live/football/match/586947",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 แอตเลติโก มาดริด vs บาร์เซโลน่า",
-          "info": "UEFA Champions League",
-          "image": "https://media.api-sports.io/football/leagues/2.png",
-          "url": "https://dookeela4.live/football/match/586951",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 ลิเวอร์พูล vs ปารีแซ็ง-แฌร์แม็ง",
-          "info": "UEFA Champions League",
-          "image": "https://media.api-sports.io/football/leagues/2.png",
-          "url": "https://dookeela4.live/football/match/586952",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "08:00 Cruz Azul vs ลอสแอนเจลิส",
-          "info": "CONCACAF Champions League",
-          "image": "https://media.api-sports.io/football/leagues/16.png",
-          "url": "https://dookeela4.live/football/match/586983",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
           "name": "10:30 คลับ อเมริกา vs แนชวิลล์ เอสซี",
           "info": "CONCACAF Champions League",
           "image": "https://media.api-sports.io/football/leagues/16.png",
           "url": "https://dookeela4.live/football/match/586991",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "17:30 อุลซัน ฮุนได vs เอฟซี โซล",
+          "info": "K League 1",
+          "image": "https://media.api-sports.io/football/leagues/292.png",
+          "url": "https://dookeela4.live/football/match/567357",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
