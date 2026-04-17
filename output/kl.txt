@@ -1,107 +1,13 @@
 {
-  "name": "ดู dookeela4.live update @16/04/2026",
-  "author": "Update@16/04/2026",
-  "info": "dookeela4.live Update@16/04/2026",
+  "name": "ดู dookeela4.live update @17/04/2026",
+  "author": "Update@17/04/2026",
+  "info": "dookeela4.live Update@17/04/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 16/04/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "10:30 ซีแอตเทิล ซาวน์เดอร์ vs Tigres UANL",
-          "info": "CONCACAF Champions League",
-          "image": "https://media.api-sports.io/football/leagues/16.png",
-          "url": "https://dookeela4.live/football/match/587226",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "23:45 เซลต้า บีโก้ vs ไฟร์บวร์ก",
-          "info": "UEFA Europa League",
-          "image": "https://media.api-sports.io/football/leagues/3.png",
-          "url": "https://dookeela4.live/football/match/587283",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "23:45 อัลค์ม่าร์ vs ชักตาร์ โดเน็ตส์ก",
-          "info": "UEFA Europa Conference League",
-          "image": "https://media.api-sports.io/football/leagues/848.png",
-          "url": "https://dookeela4.live/football/match/587284",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 17/04/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
-        {
-          "name": "02:00 บรอมลีย์ vs เคมบริดจ์ ยูไนเต็ด",
-          "info": "League Two",
-          "image": "https://media.api-sports.io/football/leagues/42.png",
-          "url": "https://dookeela4.live/football/match/587335",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 แอสตัน วิลลา vs โบโลญญ่า",
-          "info": "UEFA Europa League",
-          "image": "https://media.api-sports.io/football/leagues/3.png",
-          "url": "https://dookeela4.live/football/match/587336",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 เรอัล เบติส vs บราก้า",
-          "info": "UEFA Europa League",
-          "image": "https://media.api-sports.io/football/leagues/3.png",
-          "url": "https://dookeela4.live/football/match/587337",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 น็อตติ้งแฮม ฟอเรสต์ vs ปอร์โต้",
-          "info": "UEFA Europa League",
-          "image": "https://media.api-sports.io/football/leagues/3.png",
-          "url": "https://dookeela4.live/football/match/587338",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 เออีเค เอเธนส์ vs ราโย บาเยกาโน่",
-          "info": "UEFA Europa Conference League",
-          "image": "https://media.api-sports.io/football/leagues/848.png",
-          "url": "https://dookeela4.live/football/match/587339",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 ฟิออเรนตินา vs คริสตัล พาเลซ",
-          "info": "UEFA Europa Conference League",
-          "image": "https://media.api-sports.io/football/leagues/848.png",
-          "url": "https://dookeela4.live/football/match/587340",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:00 สตราสบูร์ก vs ไมนซ์ 05",
-          "info": "UEFA Europa Conference League",
-          "image": "https://media.api-sports.io/football/leagues/848.png",
-          "url": "https://dookeela4.live/football/match/587341",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 Ivory Coast W vs Pakistan W",
-          "info": "Friendlies Women",
-          "image": "https://media.api-sports.io/football/leagues/666.png",
-          "url": "https://dookeela4.live/football/match/587342",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "15:30 บายังการา ซูราบาย vs PSIM Yogyakarta",
           "info": "Liga 1",
@@ -573,10 +479,66 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "18:00 ราษีไศล ยูไนเต็ด vs มหาสารคาม เอสบีที เอฟซี",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/588057",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 ปัตตานี เอฟซี vs จันทบุรี เอฟซี",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/588058",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 เชียงใหม่ ยูไนเต็ด vs หนองบัว พิชญ",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/588059",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 โปลิศ เทโร vs แพร่ ยูไนเต็ด",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/588060",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 ประจวบ vs ชลบุรี",
+          "info": "Thai League 1",
+          "image": "https://media.api-sports.io/football/leagues/296.png",
+          "url": "https://dookeela4.live/football/match/588061",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 แบงค็อก ยูไนเต็ด vs ราชบุรี เอฟซี",
+          "info": "Thai League 1",
+          "image": "https://media.api-sports.io/football/leagues/296.png",
+          "url": "https://dookeela4.live/football/match/588062",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "18:30 Portsmouth vs เลสเตอร์ ซิตี้",
           "info": "Championship",
           "image": "https://media.api-sports.io/football/leagues/40.png",
           "url": "https://dookeela4.live/football/match/588117",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:30 เมืองทอง ยูไนเต็ด vs นครราชสีมา",
+          "info": "Thai League 1",
+          "image": "https://media.api-sports.io/football/leagues/296.png",
+          "url": "https://dookeela4.live/football/match/588144",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -601,6 +563,14 @@
           "info": "Liga 1",
           "image": "https://media.api-sports.io/football/leagues/274.png",
           "url": "https://dookeela4.live/football/match/588163",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "19:00 อุทัยธานี vs ระยอง",
+          "info": "Thai League 1",
+          "image": "https://media.api-sports.io/football/leagues/296.png",
+          "url": "https://dookeela4.live/football/match/588224",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -1195,6 +1165,46 @@
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
         {
+          "name": "18:00 ตราด vs ชัยนาท ฮอร์นบิล",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/589833",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 พัทยา ยูไนเต็ด vs ศรีสะเกษ ยูไนเต็ด",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/589834",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 ขอนแก่น ยูไนเต็ด vs เกษตรศาสตร์",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/589835",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 สงขลา เอฟซี vs นครศรีฯ ยูไนเต็ด",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/589836",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "18:00 นครปฐม ยูไนเต็ด vs บางกอก",
+          "info": "Thai League 2",
+          "image": "https://media.api-sports.io/football/leagues/297.png",
+          "url": "https://dookeela4.live/football/match/589837",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
           "name": "18:30 เบราน์ชไวจ์ vs แฮร์ทาเบอร์ลิน",
           "info": "2. Bundesliga",
           "image": "https://media.api-sports.io/football/leagues/79.png",
@@ -1231,6 +1241,14 @@
           "info": "Liga 1",
           "image": "https://media.api-sports.io/football/leagues/274.png",
           "url": "https://dookeela4.live/football/match/589890",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "19:00 การท่าเรือ vs บีจี ปทุม ยูไนเต็ด",
+          "info": "Thai League 1",
+          "image": "https://media.api-sports.io/football/leagues/296.png",
+          "url": "https://dookeela4.live/football/match/589935",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
