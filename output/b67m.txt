@@ -1,7 +1,7 @@
 {
-  "name": "ball67 update @04/05/2026",
-  "author": "Update@04/05/2026",
-  "info": "ball67 Update@04/05/2026",
+  "name": "ball67 update @05/05/2026",
+  "author": "Update@05/05/2026",
+  "info": "ball67 Update@05/05/2026",
   "image": "https://img2.pic.in.th/sitelogo.md.png",
   "groups": []
 }
