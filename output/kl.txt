@@ -1,7 +1,7 @@
 {
-  "name": "ดู dookeela4.live update @18/05/2026",
-  "author": "Update@18/05/2026",
-  "info": "dookeela4.live Update@18/05/2026",
+  "name": "ดู dookeela4.live update @19/05/2026",
+  "author": "Update@19/05/2026",
+  "info": "dookeela4.live Update@19/05/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": []
 }
