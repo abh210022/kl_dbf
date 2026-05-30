@@ -1,299 +1,13 @@
 {
-  "name": "dooballfree.cam@29 พ.ค 2569",
-  "author": "Update@29 พ.ค 2569",
-  "info": "dooballfree.cam@29 พ.ค 2569",
+  "name": "dooballfree.cam@30 พ.ค 2569",
+  "author": "Update@30 พ.ค 2569",
+  "info": "dooballfree.cam@30 พ.ค 2569",
   "image": "https://dooballfree.cam/wp-content/uploads/2025/05/logo-1-1.png",
   "groups": [
-    {
-      "name": "วันที่ 29 พ.ค 2569",
-      "image": "https://dooballfree.cam/wp-content/uploads/2025/05/logo-1-1.png",
-      "groups": [
-        {
-          "name": "FT | América de Cali vs Macará",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/21/9269.png",
-          "info": "South America อเมริกาใต้ | โกปา ซูดาเมริกาน่า",
-          "stations": [
-            {
-              "name": "FT | América de Cali vs Macará",
-              "image": "https://image.thai-play.com/images/tv/nOmijQ7QARATH3RkflKuhWj8lh9P9JCSport_4_Israel.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Sport%204%20Israel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | América de Cali vs Macará",
-              "image": "https://image.thai-play.com/images/tv/nOmijQ7QARATH3RkflKuhWj8lh9P9JCSport_4_Israel.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Sport%204%20Israel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | América de Cali vs Macará",
-              "image": "https://image.thai-play.com/images/tv/nOmijQ7QARATH3RkflKuhWj8lh9P9JCSport_4_Israel.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Sport%204%20Israel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | América de Cali vs Macará",
-              "image": "https://image.thai-play.com/images/tv/nOmijQ7QARATH3RkflKuhWj8lh9P9JCSport_4_Israel.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Sport%204%20Israel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "FT | Cruzeiro vs Barcelona Guayaquil",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/11/3371.png",
-          "info": "South America อเมริกาใต้ | โกปา ลิเบอร์ตาดอเรส",
-          "stations": [
-            {
-              "name": "FT | Cruzeiro vs Barcelona Guayaquil",
-              "image": "https://image.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | Cruzeiro vs Barcelona Guayaquil",
-              "image": "https://image.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | Cruzeiro vs Barcelona Guayaquil",
-              "image": "https://image.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | Cruzeiro vs Barcelona Guayaquil",
-              "image": "https://image.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "FT | โบคา จูเนียร์ส vs Universidad Católica",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/11/587.png",
-          "info": "South America อเมริกาใต้ | โกปา ลิเบอร์ตาดอเรส",
-          "stations": [
-            {
-              "name": "FT | โบคา จูเนียร์ส vs Universidad Católica",
-              "image": "https://image.thai-play.com/images/tv/tfuupgUGsXjxJEa7lVuQM5km0z3KiHwa314.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Croatia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "FT | โบคา จูเนียร์ส vs Universidad Católica",
-              "image": "https://image.thai-play.com/images/tv/b8KHlAhwrs9mWEgWKio4jIpRz4FIroktv-station-pt-sport-tv-2-451.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/SPORT%20TV%202%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "18:30 | Montenegro U17 vs Italy U17",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/26/136058.png",
-          "info": "Europe",
-          "stations": [
-            {
-              "name": "18:30 | Montenegro U17 vs Italy U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "18:30 | Montenegro U17 vs Italy U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "18:30 | Montenegro U17 vs Italy U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "23:00 | France U17 vs Denmark U17",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/22/128630.png",
-          "info": "Europe",
-          "stations": [
-            {
-              "name": "23:00 | France U17 vs Denmark U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "23:00 | France U17 vs Denmark U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "23:00 | France U17 vs Denmark U17",
-              "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        }
-      ]
-    },
     {
       "name": "วันที่ 30 พ.ค 2569",
       "image": "https://dooballfree.cam/wp-content/uploads/2025/05/logo-1-1.png",
       "groups": [
-        {
-          "name": "00:30 | ดินาโม บูคาเรสต์ vs เอฟซีเอสบี",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/2/1026.png",
-          "info": "Romania โรมาเนีย | ลีกา 1",
-          "stations": [
-            {
-              "name": "00:30 | ดินาโม บูคาเรสต์ vs เอฟซีเอสบี",
-              "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "00:30 | ดินาโม บูคาเรสต์ vs เอฟซีเอสบี",
-              "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "00:30 | ดินาโม บูคาเรสต์ vs เอฟซีเอสบี",
-              "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "00:30 | ดินาโม บูคาเรสต์ vs เอฟซีเอสบี",
-              "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "01:00 | มอนซ่า vs Catanzaro",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/28/1628.png",
-          "info": "Italy อิตาลี | กัลโช่ บี",
-          "stations": [
-            {
-              "name": "01:00 | มอนซ่า vs Catanzaro",
-              "image": "https://image.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:00 | มอนซ่า vs Catanzaro",
-              "image": "https://image.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:00 | มอนซ่า vs Catanzaro",
-              "image": "https://image.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:00 | มอนซ่า vs Catanzaro",
-              "image": "https://image.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "01:30 | บอสเนียและเฮอร์เซโกวีนา vs นอร์ทมาซิโดเนีย",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/1/18625.png",
-          "info": "World โลก | กระชับมิตรนานาชาติ",
-          "stations": [
-            {
-              "name": "01:30 | บอสเนียและเฮอร์เซโกวีนา vs นอร์ทมาซิโดเนีย",
-              "image": "https://image.thai-play.com/images/tv/OPoiH8Rrh7hJKGFx1mcYarik4yQVat3Digi_Sport_2_Romania.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Digi%20Sport%202%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:30 | บอสเนียและเฮอร์เซโกวีนา vs นอร์ทมาซิโดเนีย",
-              "image": "https://image.thai-play.com/images/tv/OPoiH8Rrh7hJKGFx1mcYarik4yQVat3Digi_Sport_2_Romania.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%202%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:30 | บอสเนียและเฮอร์เซโกวีนา vs นอร์ทมาซิโดเนีย",
-              "image": "https://image.thai-play.com/images/tv/OPoiH8Rrh7hJKGFx1mcYarik4yQVat3Digi_Sport_2_Romania.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Digi%20Sport%202%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:30 | บอสเนียและเฮอร์เซโกวีนา vs นอร์ทมาซิโดเนีย",
-              "image": "https://image.thai-play.com/images/tv/OPoiH8Rrh7hJKGFx1mcYarik4yQVat3Digi_Sport_2_Romania.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%202%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
-        {
-          "name": "01:45 | นีซ vs แซงต์เอเตียน",
-          "image": "https://cdn.sportmonks.com/images/soccer/teams/2/450.png",
-          "info": "France ฝรั่งเศส | ลีกเอิง 1 เพลย์ออฟ",
-          "stations": [
-            {
-              "name": "01:45 | นีซ vs แซงต์เอเตียน",
-              "image": "https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:45 | นีซ vs แซงต์เอเตียน",
-              "image": "https://image.thai-play.com/images/tv/VkiHM7qyBJC0Bg9i7YPK1iMCv1HDURZsiam1.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            },
-            {
-              "name": "01:45 | นีซ vs แซงต์เอเตียน",
-              "image": "https://image.thai-play.com/images/tv/4AYwWTfKCAfJ3MJE99wr5THh54qXEl2siam1.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
-              "referer": "https://dooballfree.cam/",
-              "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
-            }
-          ]
-        },
         {
           "name": "23:00 | ปารีแซ็ง-แฌร์แม็ง vs อาร์เซนอล",
           "image": "https://cdn.sportmonks.com/images/soccer/teams/15/591.png",
@@ -302,21 +16,21 @@
             {
               "name": "23:00 | ปารีแซ็ง-แฌร์แม็ง vs อาร์เซนอล",
               "image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "23:00 | ปารีแซ็ง-แฌร์แม็ง vs อาร์เซนอล",
               "image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077backup.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "23:00 | ปารีแซ็ง-แฌร์แม็ง vs อาร์เซนอล",
               "image": "https://image.thai-play.com/images/tv/0rp3HnvgY5kT0Ru9ImsRMRj5dodjYvYa1077backup.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/bein-1-th/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -336,42 +50,42 @@
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "02:00 | ฟลาเมงโก vs Coritiba",
               "image": "https://image.thai-play.com/images/tv/pBivjaUbfo4dNnCbcyFpXPE1fL9YIV0ais4.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-4/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -385,21 +99,21 @@
             {
               "name": "18:30 | Belgium U17 vs Estonia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "18:30 | Belgium U17 vs Estonia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "18:30 | Belgium U17 vs Estonia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -413,21 +127,21 @@
             {
               "name": "18:30 | Spain U17 vs Croatia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "18:30 | Spain U17 vs Croatia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "18:30 | Spain U17 vs Croatia U17",
               "image": "https://image.thai-play.com/images/tv/vvN9KtCxQiePrrD3JZ1w4zau0TtwKgyais3.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/football-play-3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -441,21 +155,21 @@
             {
               "name": "19:00 | บุรีรัมย์ ยูไนเต็ด vs พีที ประจวบ",
               "image": "https://image.thai-play.com/images/tv/JdcUZJ0aLWimhsL3c8gNqsWpuD1yhbDsiam1.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "19:00 | บุรีรัมย์ ยูไนเต็ด vs พีที ประจวบ",
               "image": "https://image.thai-play.com/images/tv/VkiHM7qyBJC0Bg9i7YPK1iMCv1HDURZsiam1.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "19:00 | บุรีรัมย์ ยูไนเต็ด vs พีที ประจวบ",
               "image": "https://image.thai-play.com/images/tv/4AYwWTfKCAfJ3MJE99wr5THh54qXEl2siam1.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/siam-1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -469,14 +183,14 @@
             {
               "name": "20:00 | สวิตเซอร์แลนด์ vs จอแดน",
               "image": "https://image.thai-play.com/images/tv/SI2HHQhevni9S0qZ4Pa3i7LDgj3gbKQrs_1.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/Arena%20Sport%201%20Serbia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "20:00 | สวิตเซอร์แลนด์ vs จอแดน",
               "image": "https://image.thai-play.com/images/tv/iYqHHo3uVU7DUV8DMmVO4wTkh3CRhJptv-station-pt-sport-tv-1-450.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/SPORT%20TV%201%20Portugal/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -490,28 +204,28 @@
             {
               "name": "21:00 | เช็ก vs คอซอวอ",
               "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:00 | เช็ก vs คอซอวอ",
               "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:00 | เช็ก vs คอซอวอ",
               "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:00 | เช็ก vs คอซอวอ",
               "image": "https://image.thai-play.com/images/tv/Digi Sport 1 (Rom).png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://fuj4mud6yo.3ppnkog.com/do-ball.com/Digi%20Sport%201%20Romania/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
@@ -525,28 +239,28 @@
             {
               "name": "21:30 | หมู่เกาะแคปเวิร์ด vs เซอร์เบีย",
               "image": "https://image.thai-play.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:30 | หมู่เกาะแคปเวิร์ด vs เซอร์เบีย",
               "image": "https://image.thai-play.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png",
-              "url": "https://6eai3di1zl.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:30 | หมู่เกาะแคปเวิร์ด vs เซอร์เบีย",
               "image": "https://image.thai-play.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png",
-              "url": "https://km7se0gapk.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://3du3lduq2w.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             },
             {
               "name": "21:30 | หมู่เกาะแคปเวิร์ด vs เซอร์เบีย",
               "image": "https://image.thai-play.com/images/tv/8MyEHmmhXy9RKLtyDCuEUSoXfRERFmpa1787.png",
-              "url": "https://zbh3wrisww.3ppnkog.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yOS8yMDI2IDY6NTc6MjAgQU0maGFzaF92YWx1ZT1VVGpwZGs1Q044blpodU4yWXQ3eGhRPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
+              "url": "https://hgi8xzc6yd.1vokkr.com/do-ball.com/Canal%2011%20(Por)/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDI2IDY6MjY6MzIgQU0maGFzaF92YWx1ZT1GblpoZ2puSnhseW9WQjdveWFMRmFBPT0mdmFsaWRtaW51dGVzPTM2MCZpZD0x",
               "referer": "https://dooballfree.cam/",
               "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X)"
             }
